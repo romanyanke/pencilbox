@@ -1,0 +1,25 @@
+---
+type: pencil
+gridSize: 1
+date: 2015-09-01
+featured_image: pencil/malta/gallery/malta-1.jpg
+key: malta
+title: Мальта
+
+countries: Мальта
+cities: Валлетта
+latlng: 35.897271, 14.511080
+geo: MLT
+
+tags:
+  - страна
+
+
+  - круглый
+  - с резинкой
+  - новый
+  - тупой
+
+---
+
+Черный карандаш, который исписан красного и белого цвета топонимами Мальты: области, острова и, конечно же, сама MALTA.

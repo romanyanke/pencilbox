@@ -1,0 +1,38 @@
+{{- $totalPencils := 0 -}}
+{{- range where .Site.Pages ".Params.type" "pencil" -}}
+  {{- if .Params.key -}}
+    {{- $count := or .Params.pencilCount 1 -}}
+    {{- $totalPencils = add $totalPencils $count -}}
+  {{- end -}}
+{{- end -}}
+{{- $countriesLen := len .Site.Taxonomies.countries -}}
+{{- $tagsLen := len .Site.Taxonomies.tags -}}
+{
+  "meta": {
+    "tags": {{$tagsLen}},
+    "countries": {{sub $countriesLen 1}}, {{/* remove Unknown country*/}}
+    "items": {{ with where .Site.Pages "Section" "pencil" }}{{len . }}{{end}},
+    "pencils": {{$totalPencils}}
+  },
+  "taxonomy": {
+    "countries": [
+        {{- partial "countriesGeoId.html" -}}
+{{/*
+      {{ $i := 0 }}
+      {{ range $key, $value := .Site.Taxonomies.countries }}
+        {{$i = add $i 1}}
+        {"name": "{{- $key | humanize -}}", "geoId": }
+        {{if lt $i $countriesLen}},{{end}}
+      {{ end }} 
+*/}}
+    ],
+    "tags": [
+      {{ $i := 0 }}
+      {{ range $key, $value := .Site.Taxonomies.tags }}
+        {{$i = add $i 1}}
+        "{{- $key | humanize -}}"{{if lt $i $tagsLen}},{{end}}
+      {{ end }}
+    ]
+  }
+
+}

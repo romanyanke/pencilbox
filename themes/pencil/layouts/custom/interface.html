@@ -1,0 +1,14 @@
+{{- $countriesLen := len .Site.Taxonomies.countries -}}
+{{- $tagsLen := len .Site.Taxonomies.tags -}}
+
+{{- $i := 0 -}}
+export type Country = {{- range $key, $value := .Site.Taxonomies.countries -}}
+  {{- $i = add $i 1 -}}
+  "{{- $key | humanize -}}"{{- if lt $i $countriesLen -}} | {{- end -}}
+{{ end }} 
+
+{{ $i := 0 -}}
+export type Tag = {{- range $key, $value := .Site.Taxonomies.tags -}}
+  {{- $i = add $i 1 -}}
+  "{{- $key | humanize -}}"{{- if lt $i $tagsLen -}} | {{- end -}}
+{{ end }} 

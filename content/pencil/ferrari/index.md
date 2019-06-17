@@ -1,0 +1,21 @@
+---
+type: pencil
+gridSize: 1
+date: 2015-09-01
+featured_image: pencil/ferrari/gallery/ferrari-1.jpg
+key: ferrari
+title: Самый быстрый карандаш
+
+countries: ОАЭ
+cities: Абу-Даби
+latlng: 24.483518, 54.606871
+geo: ARE
+
+tags:
+  - круглый
+  - с резинкой
+  - новый
+  - тупой
+---
+
+Плохого контраста карандаш: на красном фоне розовой надписью разошелся паттерн из слов Ferrari World и Abudhabi, стилизованной под арабскую вязь. В общем-то, из феррари ворлд этот карандаш и был привезен.

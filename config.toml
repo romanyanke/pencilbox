@@ -1,0 +1,11 @@
+baseURL = "http://localhost:8080/"
+languageCode = "en-us"
+title = "Pencil box"
+theme = "pencil"
+Paginate = 30
+
+[taxonomies]
+  category = "categories"
+  country = "countries"
+  city = "cities"
+  tag = "tags"

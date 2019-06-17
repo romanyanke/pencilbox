@@ -1,0 +1,25 @@
+---
+type: pencil
+gridSize: 2
+date: 2019-05-03
+featured_image: pencil/armenian-girl/gallery/armenian-girl-1.jpg
+key: armenian-girl
+title: Армянская девушка
+
+countries: Армения
+cities: Ереван
+latlng: 40.180232, 44.502673
+geo: ARM
+
+pencilCount: 1
+
+tags:
+  - страна
+  - человек
+  - круглый
+  - без резинки
+  - новый
+  - заточенный
+---
+
+Девушка с косой и руками по швам в национальном костюме нарисована на карандаше.

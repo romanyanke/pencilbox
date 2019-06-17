@@ -1,0 +1,23 @@
+---
+type: pencil
+gridSize: 1
+date: 2017-11-26
+featured_image: pencil/london-crown/gallery/london-crown-1.jpg
+key: london-crown
+title: Лондонская корона
+
+countries: Англия
+cities: Лондон
+latlng: 51.495831, -0.133726
+geo: GBR
+
+pencilCount: 1
+
+tags:
+  - круглый
+  - без резинки
+  - новый
+  - заточенный
+---
+
+Абсолютно черный карандаш с наконечником в виде короны. Раз из Лондона, будем считать, что корона английской королевы.

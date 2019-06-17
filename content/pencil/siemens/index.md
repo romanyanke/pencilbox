@@ -1,0 +1,24 @@
+---
+type: pencil
+gridSize: 1
+date: 2017-06-02
+featured_image: pencil/siemens/gallery/siemens-1.jpg
+key: siemens
+title: Сименс
+
+countries: Россия
+cities: Санкт-Петербург
+latlng: 59.842224, 30.316582
+geo: RUS
+
+tags:
+  - бесплатный
+  - корпоративный
+
+  - круглый
+  - с резинкой
+  - новый
+  - заточенный
+---
+
+И еще один [корпоративный карандаш](?tag=корпоративный) с конференции, в этот раз – Сименс.
