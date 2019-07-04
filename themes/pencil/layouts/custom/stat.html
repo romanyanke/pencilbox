@@ -1,0 +1,12 @@
+{{- $totalPencils := 0 -}}
+{{- range where .Site.Pages ".Params.type" "pencil" -}}
+  {{- if .Params.key -}}
+    {{- $count := or .Params.pencilCount 1 -}}
+    {{- $totalPencils = add $totalPencils $count -}}
+  {{- end -}}
+{{- end -}}
+{{- $countriesLen := len .Site.Taxonomies.countries -}}
+{
+  "countries": {{sub $countriesLen 1}}, {{/* remove Unknown country*/}}
+  "pencils": {{$totalPencils}}
+}
