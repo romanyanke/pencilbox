@@ -1,4 +1,5 @@
-baseURL = "http://localhost:8080/"
+baseURL = "https://romanyanke.github.io/pencilbox-static/"
+# baseURL = "http://localhost:8080/"
 languageCode = "en-us"
 title = "Pencil box"
 theme = "pencil"
