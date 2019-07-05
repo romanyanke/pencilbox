@@ -5,8 +5,8 @@
     {{- $totalPencils = add $totalPencils $count -}}
   {{- end -}}
 {{- end -}}
-{{- $countriesLen := len .Site.Taxonomies.countries -}}
+
+{{ $totalCountries :=  sub (len .Site.Taxonomies.countries) 1 }}
 {
-  "countries": {{sub $countriesLen 1}}, {{/* remove Unknown country*/}}
-  "pencils": {{$totalPencils}}
+  "description": "{{$totalPencils}} {{ i18n "pencil" $totalPencils }} from {{$totalCountries}} {{ i18n "country" $totalCountries }}"
 }

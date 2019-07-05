@@ -1,0 +1,9 @@
+{{/* requires .Site.Pages  */}}
+{{- $totalPencils := 0 -}}
+{{- range where . ".Params.type" "pencil" -}}
+  {{- if .Params.key -}}
+    {{- $count := or .Params.pencilCount 1 -}}
+    {{- $totalPencils = add $totalPencils $count -}}
+  {{- end -}}
+{{- end -}}
+{{- $totalPencils -}}

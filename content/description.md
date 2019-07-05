@@ -1,4 +1,4 @@
 ---
 type: "custom"
-layout: "interface"
+layout: "description"
 ---

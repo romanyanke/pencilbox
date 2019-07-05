@@ -1,18 +1,11 @@
-{{- $totalPencils := 0 -}}
-{{- range where .Site.Pages ".Params.type" "pencil" -}}
-  {{- if .Params.key -}}
-    {{- $count := or .Params.pencilCount 1 -}}
-    {{- $totalPencils = add $totalPencils $count -}}
-  {{- end -}}
-{{- end -}}
 {{- $countriesLen := len .Site.Taxonomies.countries -}}
 {{- $tagsLen := len .Site.Taxonomies.tags -}}
 {
   "meta": {
     "tags": {{$tagsLen}},
-    "countries": {{sub $countriesLen 1}}, {{/* remove Unknown country*/}}
+    "countries": {{ partial "count-countries.html" .Site.Taxonomies.countries }},
     "items": {{ with where .Site.Pages "Section" "pencil" }}{{len . }}{{end}},
-    "pencils": {{$totalPencils}}
+    "pencils": {{ partial "count-pencils.html" .Site.Pages }}
   },
   "taxonomy": {
     "countries": [

@@ -1,0 +1,9 @@
+- id: pencil
+  translation:
+    one: pencil
+    other: pencils
+
+- id: country
+  translation:
+    one: country
+    other: countries
