@@ -7,6 +7,7 @@ key: unknowndoll
 title: Xingzuo
 
 countries: Китай
+geo: CHN
 latlng: 30.619141, 104.098616
 
 tags:

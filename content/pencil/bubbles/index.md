@@ -7,7 +7,6 @@ key: bubbles
 title: Черный карандаш с пузырями
 
 countries: Неизвестно
-cities: Неизвестно
 
 tags:
   - круглый
