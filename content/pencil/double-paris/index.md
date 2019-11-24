@@ -4,7 +4,7 @@ date: 2019-09-25
 featured_image: pencil/double-paris/gallery/double-paris-1.jpg
 
 key: double-paris
-title:
+title: Пара из Парижа
 
 gridSize: 1
 pencilCount: 2
