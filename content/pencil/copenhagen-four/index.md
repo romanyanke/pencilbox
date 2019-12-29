@@ -4,7 +4,7 @@ date: 2019-11-15
 featured_image: pencil/copenhagen-four/gallery/copenhagen-four-1.jpg
 
 key: copenhagen-four
-title:
+title: Четверка из Копенгагена
 
 gridSize: 1
 pencilCount: 4
