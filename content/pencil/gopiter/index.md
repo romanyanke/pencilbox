@@ -9,6 +9,7 @@ title: В любой непонятной ситуации
 countries: Россия
 cities: Санкт-Петербург
 latlng: 59.934633, 30.347850
+geo: RUS
 
 pencilCount: 1
 

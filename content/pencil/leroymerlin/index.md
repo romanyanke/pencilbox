@@ -9,6 +9,7 @@ title: Леруа
 countries: Россия
 cities: Санкт-Петербург
 latlng: 60.004489, 30.301255
+geo: RUS
 
 pencilCount: 1
 
