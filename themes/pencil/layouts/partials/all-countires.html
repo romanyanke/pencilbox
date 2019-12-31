@@ -1,9 +1,21 @@
-  "geoIds": [
-  {{ with where .Pages ".Params.type" "pencil" }}
-    {{- $total := len . -}}
-    {{- $len := sub $total 1 -}}
-    {{- range $i, $e := . -}}
-      "{{- .Params.geo -}}"
-      {{ if lt $i  $len }}, {{ end }}
+{{ $var := .Scratch }}
+
+{{ with where .Pages ".Params.type" "pencil" }}
+  {{ range . }}
+    {{ if not (in ($var.Get "all-geo-ids") .Params.geo) }}
+      {{ $var.Add "all-geo-ids" (slice .Params.geo)}}
     {{ end }}
-  {{ end }}]
+  {{ end }}
+{{ end }}
+
+
+"geoIds": [
+{{ with ($var.Get "all-geo-ids") }}
+  {{ $total := len . }}
+  {{ $len := sub $total 1 }}
+  {{ range $i, $e := . }}
+    "{{.}}"{{ if lt $i  $len }}, {{ end }}
+  {{ end }}
+{{ end }}]
+
+
