@@ -9,7 +9,7 @@ title: Marina Bay Sands
 countries: Сингапур
 cities: Сингапур
 latlng: 1.285692, 103.861189
-geo: MYS
+geo: SGP
 
 pencilCount: 1
 
