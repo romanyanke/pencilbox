@@ -2,12 +2,13 @@
 
 {{ with where .Pages ".Params.type" "pencil" }}
   {{ range . }}
-    {{ if not (in ($var.Get "all-geo-ids") .Params.geo) }}
-      {{ $var.Add "all-geo-ids" (slice .Params.geo)}}
+    {{ if .Params.geo }}
+      {{ if not (in ($var.Get "all-geo-ids") .Params.geo) }}
+        {{ $var.Add "all-geo-ids" (slice .Params.geo)}}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
-
 
 "geoIds": [
 {{ with ($var.Get "all-geo-ids") }}
@@ -17,5 +18,3 @@
     "{{.}}"{{ if lt $i  $len }}, {{ end }}
   {{ end }}
 {{ end }}]
-
-
