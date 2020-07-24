@@ -9,7 +9,7 @@ title: Сотворение Адама
 countries: Ватикан
 cities: Ватикан
 latlng: 41.902049, 12.452425
-geo: ITA
+geo: VAT
 
 tags:
 

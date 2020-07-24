@@ -1,12 +1,6 @@
-{{- $totalPencils := 0 -}}
-{{- range where .Site.Pages ".Params.type" "pencil" -}}
-  {{- if .Params.key -}}
-    {{- $count := or .Params.pencilCount 1 -}}
-    {{- $totalPencils = add $totalPencils $count -}}
-  {{- end -}}
-{{- end -}}
-
-{{ $totalCountries :=  sub (len .Site.Taxonomies.countries) 1 }}
-{
-  "description": "{{$totalPencils}} {{ i18n "pencil" $totalPencils }} from {{$totalCountries}} {{ i18n "country" $totalCountries }}"
-}
+{{- $pencilCount := partial "count-pencils.html" (where .Site.Pages "Section" "pencil") -}}
+{{- $countryCount := partial "count-countries.html" (where .Site.Pages "Section" "country") -}}
+{{- $pencilString := (printf "%v %v" $pencilCount (i18n "pencil" $pencilCount) ) -}}
+{{- $countryString := (printf "%v %v" $countryCount (i18n "country" $countryCount) ) -}}
+{{- $description := (printf "%v from %v" $pencilString $countryString) -}}
+{{- jsonify (dict "description" $description ) -}}

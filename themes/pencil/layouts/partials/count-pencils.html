@@ -1,9 +1,7 @@
-{{/* requires .Site.Pages  */}}
-{{- $totalPencils := 0 -}}
+{{- $scratch := newScratch -}}
 {{- range where . ".Params.type" "pencil" -}}
   {{- if .Params.key -}}
-    {{- $count := or .Params.pencilCount 1 -}}
-    {{- $totalPencils = add $totalPencils $count -}}
+    {{- $scratch.Add "total" (or .Params.pencilCount 1) -}}
   {{- end -}}
 {{- end -}}
-{{- $totalPencils -}}
+{{- return $scratch.Get "total"  -}}

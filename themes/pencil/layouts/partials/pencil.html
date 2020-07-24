@@ -1,0 +1,49 @@
+{{- $scratch := newScratch -}}
+
+{{- $text := safeHTML .Content -}}
+{{- $id := .Params.key -}}
+{{- $title := .Title -}}
+{{- $grid := .Params.gridSize -}}
+{{- $city := .Params.cities -}}
+{{- $count := cond (isset .Params "pencilcount") .Params.pencilCount 1 -}}
+{{- $tags := cond (isset .Params "tags" ) .Params.tags slice -}}
+
+{{- $geo := .Params.geo -}}
+{{- if $geo -}}
+  {{- range  (where .Site.Pages "Section" "country") -}}
+    {{- if (eq .Params.id $geo) -}}
+      {{- $scratch.SetInMap "json" "country" ( partial "country-geo" . ) -}}
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  {{- $scratch.SetInMap "json" "country" nil -}}
+{{- end -}}
+
+{{- $sringCoords := cond (isset .Params "latlng")  (split .Params.latlng ", ") nil -}}
+{{- $coords := (apply $sringCoords "float" ".") -}}
+{{- $map := cond (isset .Params "latlng") (dict "lat" (index $coords 0) "lng" (index $coords 1) ) nil -}}
+
+{{- $photos := slice -}}
+{{- with .Resources.ByType "image" -}}
+  {{- range . -}}
+    {{ $photos = $photos | append (slice .Permalink) }}
+  {{- end -}}
+{{- end -}}
+
+{{- $thumb := index (.Resources.ByType "image") 0 -}}
+{{- $preview := ($thumb.Resize "300x").Permalink -}}
+
+
+
+{{- $scratch.SetInMap "json" "city" $city -}}
+{{- $scratch.SetInMap "json" "content" $text -}}
+{{- $scratch.SetInMap "json" "count" $count -}}
+{{- $scratch.SetInMap "json" "grid" $grid -}}
+{{- $scratch.SetInMap "json" "id" $id -}}
+{{- $scratch.SetInMap "json" "map" $map -}}
+{{- $scratch.SetInMap "json" "photos" $photos -}}
+{{- $scratch.SetInMap "json" "preview" $preview -}}
+{{- $scratch.SetInMap "json" "tags" $tags -}}
+{{- $scratch.SetInMap "json" "title" $title  -}}
+
+{{- return $scratch.Get "json"  -}}

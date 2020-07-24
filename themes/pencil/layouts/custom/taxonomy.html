@@ -1,31 +1,28 @@
-{{- $countriesLen := len .Site.Taxonomies.countries -}}
-{{- $tagsLen := len .Site.Taxonomies.tags -}}
-{
-  "meta": {
-    "tags": {{$tagsLen}},
-    "countries": {{ partial "count-countries.html" .Site.Taxonomies.countries }},
-    "items": {{ with where .Site.Pages "Section" "pencil" }}{{len . }}{{end}},
-    "pencils": {{ partial "count-pencils.html" .Site.Pages }}
-  },
-  "taxonomy": {
-    "countries": [
-        {{- partial "countriesGeoId.html" -}}
-{{/*
-      {{ $i := 0 }}
-      {{ range $key, $value := .Site.Taxonomies.countries }}
-        {{$i = add $i 1}}
-        {"name": "{{- $key | humanize -}}", "geoId": }
-        {{if lt $i $countriesLen}},{{end}}
-      {{ end }}
-*/}}
-    ],
-    "tags": [
-      {{ $i := 0 }}
-      {{ range $key, $value := .Site.Taxonomies.tags }}
-        {{$i = add $i 1}}
-        "{{- $key | humanize -}}"{{if lt $i $tagsLen}},{{end}}
-      {{ end }}
-    ]
-  }
+{{- $scratch := newScratch -}}
 
-}
+{{- range  (where .Site.Pages "Section" "country") -}}
+  {{- if .Params.id -}}
+    {{- $scratch.Add "countries" (slice ( partial "country-geo" . )) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $sortedCountries := sort ($scratch.Get "countries") "name" -}}
+
+{{- $items := (len (where .Site.Pages "Section" "pencil")) -}}
+{{- $pencils := partial "count-pencils.html" (where .Site.Pages "Section" "pencil") -}}
+{{- $countries := partial "count-countries.html" (where .Site.Pages "Section" "country") -}}
+{{- $tags := len .Site.Taxonomies.tags -}}
+
+{{- $scratch.SetInMap "statistic" "tags" $tags -}}
+{{- $scratch.SetInMap "statistic" "countries" $countries -}}
+{{- $scratch.SetInMap "statistic" "items" $items -}}
+{{- $scratch.SetInMap "statistic" "pencils" $pencils -}}
+
+{{- range .Site.Taxonomies.tags  -}}
+  {{- $scratch.Add "tags" (slice (humanize .Page.Title)) -}}
+{{- end -}}
+
+{{- $statistic := $scratch.Get "statistic" -}}
+{{- $data := dict "statistic" $statistic "countries" $sortedCountries "tags" ($scratch.Get "tags") -}}
+
+{{- jsonify $data -}}

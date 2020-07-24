@@ -1,0 +1,12 @@
+{{- $scratch := newScratch -}}
+
+{{- $geo := .Params.id -}}
+
+{{- range  (where .Site.Pages "Section" "pencil") -}}
+  {{- if (eq $geo .Params.geo) -}}
+    {{- $scratch.Add "pencils" (or .Params.pencilCount 1) -}}
+  {{end}}
+{{- end -}}
+
+
+{{- return ( dict "geo" $geo "flag" .Params.flag "name" .Params.name "pencils" ( $scratch.Get "pencils" ) ) -}}

@@ -1,0 +1,17 @@
+baseURL: "https://romanyanke.github.io/pencilbox-static/"
+# baseURL: "http://localhost:8080/"
+languageCode: "en-us"
+title: "Pencil box"
+theme: "pencil"
+Paginate: 30
+
+taxonomies:
+  category: "categories"
+  geo: "geo"
+  city: "cities"
+  tag: "tags"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

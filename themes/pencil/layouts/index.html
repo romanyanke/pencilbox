@@ -1,4 +1,3 @@
-{
-  {{- partial "pages.html" . -}},
-  {{- partial "pencil-all.html" . -}}
-}
+{{- $pages := partial "pages.html" . -}}
+{{- $pencils := partial "pencils.html" . -}}
+{{- jsonify (dict "pages" $pages "data" $pencils) -}}

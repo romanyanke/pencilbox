@@ -1,0 +1,11 @@
+{{- $geoIds := slice -}}
+
+{{- with where .Pages ".Params.type" "pencil" -}}
+  {{- range . -}}
+    {{- if .Params.geo -}}
+      {{ $geoIds = $geoIds | append (slice .Params.geo) }}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return ($geoIds | uniq) -}}

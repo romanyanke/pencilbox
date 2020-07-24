@@ -1,0 +1,9 @@
+{{- $scratch := newScratch -}}
+
+{{- $pencils := where .Paginator.Pages ".Params.type" "pencil" -}}
+
+{{- range $pencils -}}
+  {{- $scratch.Add "content" (slice (partial "pencil.html" .)) -}}
+{{- end -}}
+
+{{- return (or ($scratch.Get "content") slice) -}}

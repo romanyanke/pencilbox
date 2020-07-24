@@ -1,14 +1,16 @@
-{{- $totalPencils := 0 -}}
-{{ range where .Pages "Params.type" "pencil" }}
-    {{- $count := or .Params.pencilCount 1 -}}
-    {{- $totalPencils = add $totalPencils $count -}}
-{{ end }}
-{{- $page := .Paginate ( where .Paginator.Pages "Params.type" "pencil" ) -}}
-  "pages": {
-    "page": {{ $page.PageNumber }},
-    "total": {{ $page.TotalPages }},
-    "nextUrl": {{ if $page.HasNext }}"{{ $page.Next.URL }}"{{else}}null{{end}},
-    "items": {{ len (where .Pages "Params.type" "pencil") }},
-    "pencils": {{$totalPencils}}
-  }
+{{- $scratch := newScratch -}}
 
+{{- $paginator := .Paginate ( where .Paginator.Pages "Category" "pencil" ) -}}
+{{- $scratch.SetInMap "json" "currentPage" $paginator.PageNumber -}}
+{{- $scratch.SetInMap "json" "totalPages" $paginator.TotalPages -}}
+
+{{- with (where .Pages "Params.type" "pencil") -}}
+  {{- $scratch.SetInMap "json" "records" (len .)  -}}
+
+  {{- range . -}}
+    {{- $scratch.Add "pencils" (or .Params.pencilCount 1)  -}}
+  {{- end -}}
+  {{- $scratch.SetInMap "json" "pencils" ($scratch.Get "pencils")  -}}
+{{- end -}}
+
+{{- return ($scratch.Get "json") -}}

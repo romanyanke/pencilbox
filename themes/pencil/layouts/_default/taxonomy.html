@@ -1,5 +1,4 @@
-{
-  {{- partial "pages.html" . -}},
-  {{- partial "all-countires.html" . -}},
-  {{- partial "pencil-pagination.html" . -}}
-}
+{{- $pages := partial "pages.html" . -}}
+{{- $geoIds := partial "geo-ids.html" . -}}
+{{- $pencils := partial "pencils.html" . -}}
+{{- jsonify (dict "pages" $pages "geo" $geoIds "data" $pencils ) -}}
