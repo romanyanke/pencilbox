@@ -13,7 +13,7 @@
 
 # Add a pencil
 
-`hugo new --kind pencil pencil/code`
+`hugo new pencil/code`
 
 # Add a country
 
