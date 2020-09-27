@@ -4,7 +4,7 @@ gridSize: 2
 date: 2019-03-30
 featured_image: pencil/centre-pompidou/gallery/2gis-1.jpg
 key: centre-pompidou
-title: Карандаш из грифеля
+title: Грифель
 
 countries: Франция
 cities: Париж

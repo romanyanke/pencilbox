@@ -4,7 +4,7 @@ gridSize: 2
 date: 2015-09-01
 featured_image: pencil/elgreco/gallery/elgreco-1.jpg
 key: elgreco
-title: Карандаш из музея Эль Греко
+title: Эль Греко
 
 countries: Испания
 cities: Толедо

@@ -4,7 +4,7 @@ gridSize: 1
 date: 2015-01-01
 featured_image: pencil/ikea/gallery/ikea-1.jpg
 key: ikea
-title: Бесплатный карандаш из Икеи
+title: IKEA
 
 countries: Россия
 cities: Новосибирск

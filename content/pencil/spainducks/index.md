@@ -4,7 +4,7 @@ gridSize: 1
 date: 2015-09-01
 featured_image: pencil/spainducks/gallery/spainducks-1.jpg
 key: spainducks
-title: Два карандаша с уточками
+title: Утки
 pencilCount: 2
 
 countries: Испания

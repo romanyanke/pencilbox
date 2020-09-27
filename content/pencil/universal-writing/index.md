@@ -4,7 +4,7 @@ date: 2019-06-20
 featured_image: pencil/universal-writing/gallery/universal-writing-1.jpg
 
 key: universal-writing
-title: Три карандаша для разных поверхностей
+title: Универсальные
 
 gridSize: 1
 pencilCount: 3
@@ -19,7 +19,6 @@ tags:
   - Тупой
   - Новый
   - Круглый
-
   - Страна
 ---
 

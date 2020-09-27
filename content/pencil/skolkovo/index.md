@@ -4,7 +4,7 @@ gridSize: 1
 date: 2016-06-01
 featured_image: pencil/skolkovo/gallery/skolkovo-1.jpg
 key: skolkovo
-title: Карандаш из Сколково
+title: Сколково
 
 countries: Россия
 cities: Москва
