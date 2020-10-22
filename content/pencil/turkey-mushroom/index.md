@@ -1,7 +1,7 @@
 ---
 type: pencil
 key: turkey-mushroom
-title: "Турецкий гриб"
+title: Поганка
 date: 2020-10-21T17:16:01+03:00
 featured_image: pencil/turkey-mushroom/gallery/turkey-mushroom-1.jpg
 
@@ -11,7 +11,7 @@ pencilCount: 1
 countries: Турция
 cities: Анталья
 latlng: 36.883249, 30.706062
-geo: TRK
+geo: TUR
 
 tags:
   - Без резинки
