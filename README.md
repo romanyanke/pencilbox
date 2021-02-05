@@ -13,8 +13,8 @@
 
 # Add a pencil
 
-`hugo new pencil/code`
+`hugo new pencil/<id>`
 
 # Add a country
 
-`hugo new country/code.md`
+`hugo new country/<code>.md`
