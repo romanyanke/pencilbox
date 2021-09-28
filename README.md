@@ -6,8 +6,8 @@
 
 # Development
 
-- change `baseURL` in `config.toml`.
-- build hugo
+- change `baseURL` in `config.yaml`.
+- build `hugo`
 - start proxy proxy `http-server --cors -p 8080`
 
 
