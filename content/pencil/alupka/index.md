@@ -1,0 +1,27 @@
+---
+type: pencil
+key: alupka
+title: Алупка
+date: 2022-01-08T13:21:31+03:00
+featured_image: pencil/alupka/gallery/alupka-1.jpg
+
+gridSize: 1
+pencilCount: 1
+
+countries: Россия
+cities: Алупка
+latlng: 44.423557, 34.054307
+geo: RUS
+
+tags:
+  - Без резинки
+  - Заточенный
+  - Круглый
+  - Город
+  - Нестандартный
+  - Скошенный бок
+  - Цветной
+
+---
+
+Купил, потому что название Алупка до сих пор забавное.
