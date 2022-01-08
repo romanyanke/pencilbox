@@ -1,8 +1,10 @@
 # Hugo static
 
+Built with [Hugo](https://gohugo.io).
+
 - dev `hugo server -D`
 - build `hugo`
-- depoly `./deploy.sh`
+- deploy `./deploy.sh`
 
 # Development
 
