@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:romanyanke/pencilbox-static.git
-	branch = master

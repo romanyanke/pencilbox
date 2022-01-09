@@ -4,7 +4,6 @@ Built with [Hugo](https://gohugo.io).
 
 - dev `hugo server -D`
 - build `hugo`
-- deploy `./deploy.sh`
 
 # Development
 
