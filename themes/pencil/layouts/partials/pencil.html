@@ -1,5 +1,7 @@
 {{- $scratch := newScratch -}}
 
+{{- $short := ( partial "pencil-short" . ) -}}
+
 {{- $text := safeHTML .Content -}}
 {{- $id := .Params.key -}}
 {{- $title := .Title -}}
@@ -33,17 +35,15 @@
 {{- $thumb := index (.Resources.ByType "image") 0 -}}
 {{- $preview := ($thumb.Resize "300x").Permalink -}}
 
-
-
+{{- $scratch.SetInMap "json" "grid" $short.grid -}}
+{{- $scratch.SetInMap "json" "id" $short.id -}}
+{{- $scratch.SetInMap "json" "preview" $short.preview -}}
+{{- $scratch.SetInMap "json" "title" $short.title  -}}
 {{- $scratch.SetInMap "json" "city" $city -}}
 {{- $scratch.SetInMap "json" "content" $text -}}
 {{- $scratch.SetInMap "json" "count" $count -}}
-{{- $scratch.SetInMap "json" "grid" $grid -}}
-{{- $scratch.SetInMap "json" "id" $id -}}
 {{- $scratch.SetInMap "json" "map" $map -}}
 {{- $scratch.SetInMap "json" "photos" $photos -}}
-{{- $scratch.SetInMap "json" "preview" $preview -}}
 {{- $scratch.SetInMap "json" "tags" $tags -}}
-{{- $scratch.SetInMap "json" "title" $title  -}}
 
 {{- return $scratch.Get "json"  -}}

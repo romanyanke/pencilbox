@@ -1,0 +1,20 @@
+{{- $scratch := newScratch -}}
+
+{{- $id := .Params.key -}}
+{{- $title := .Title -}}
+{{- $grid := .Params.gridSize -}}
+{{- $thumb := index (.Resources.ByType "image") 0 -}}
+{{- $preview := ($thumb.Resize "300x").Permalink -}}
+
+{{- $photos := slice -}}
+{{- with (index (.Resources.ByType "image") 0) -}}
+  {{ $photos = $photos | append (slice .Permalink) }}
+{{- end -}}
+
+{{- $scratch.SetInMap "json" "photos" $photos -}}
+{{- $scratch.SetInMap "json" "grid" $grid -}}
+{{- $scratch.SetInMap "json" "id" $id -}}
+{{- $scratch.SetInMap "json" "preview" $preview -}}
+{{- $scratch.SetInMap "json" "title" $title  -}}
+
+{{- return $scratch.Get "json"  -}}

@@ -19,8 +19,10 @@
 {{- $scratch.SetInMap "statistic" "pencils" $pencils -}}
 
 {{- range .Site.Taxonomies.tags  -}}
-  {{- $scratch.Add "tags" (slice (humanize .Page.Title)) -}}
+  {{- $scratch.Add "tags" (slice ( partial "count-tag" . )) -}}
 {{- end -}}
+
+
 
 {{- $statistic := $scratch.Get "statistic" -}}
 {{- $data := dict "statistic" $statistic "countries" $sortedCountries "tags" ($scratch.Get "tags") -}}
