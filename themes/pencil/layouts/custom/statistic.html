@@ -1,0 +1,5 @@
+{{- $pencilCount := partial "count-pencils.html" (where .Site.Pages "Section" "pencil") -}}
+{{- $countryCount := partial "count-countries.html" (where .Site.Pages "Section" "country") -}}
+{{- $pencilString := (printf "%v %v" $pencilCount (i18n "pencil" $pencilCount) ) -}}
+{{- $countryString := (printf "%v %v" $countryCount (i18n "country" $countryCount) ) -}}
+{{- printf "%v from %v" $pencilString $countryString -}}
