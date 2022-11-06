@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-01-15
-featured_image: pencil/novgorod-tree/gallery/novgorod-tree-1.jpg
+
 key: novgorod-tree
 title: Деревянный Новгород
 

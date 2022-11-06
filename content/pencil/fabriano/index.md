@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2019-03-30
-featured_image: pencil/fabriano/gallery/2gis-1.jpg
+
 key: fabriano
 title: Раскладной карандаш
 

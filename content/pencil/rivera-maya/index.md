@@ -3,7 +3,7 @@ type: pencil
 key: rivera-maya
 title: Ривьера Майя
 date: 2021-07-17T22:00:29+03:00
-featured_image: pencil/rivera-maya/gallery/rivera-maya-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-06-05
-featured_image: pencil/greece/gallery/greece-1.jpg
+
 key: greece
 title: Греческий флаг
 

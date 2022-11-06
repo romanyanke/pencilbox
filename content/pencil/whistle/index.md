@@ -1,10 +1,10 @@
 ---
 type: pencil
 date: 2020-01-03
-featured_image: pencil/whistle/gallery/whistle-1.jpg
+
 
 key: whistle
-title: Карнадаш–свисток
+title: Карандаш–свисток
 
 gridSize: 2
 pencilCount: 1

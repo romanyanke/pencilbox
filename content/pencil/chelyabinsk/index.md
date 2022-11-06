@@ -3,7 +3,7 @@ type: pencil
 key: chelyabinsk
 title: Скошенный бок Челябинск
 date: 2020-09-09T10:43:24+03:00
-featured_image: pencil/chelyabinsk/gallery/chelyabinsk-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

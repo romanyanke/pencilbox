@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2020-02-28
-featured_image: pencil/camels-in-qatar/gallery/camels-in-qatar-1.jpg
+
 
 key: camels-in-qatar
 title: Верблюды в Катаре

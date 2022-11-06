@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-01-18
-featured_image: pencil/leroymerlin/gallery/leroymerlin-1.jpg
+
 key: leroymerlin
 title: Леруа
 

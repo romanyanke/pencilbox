@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-01-15
-featured_image: pencil/copenhagen-flower/gallery/copenhagen-flower-1.jpg
+
 key: copenhagen-flower
 title: Цветок из Дании
 

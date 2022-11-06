@@ -3,7 +3,7 @@ type: pencil
 key: sehir-hatlari
 title: Şehir hatlari
 date: 2022-06-19T14:47:45+03:00
-featured_image: pencil/sehir-hatlari/gallery/sehir-hatlari-1.jpg
+
 
 gridSize: 1
 pencilCount: 2

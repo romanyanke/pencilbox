@@ -3,7 +3,6 @@ type: pencil
 key: ain-dubai
 title: Глаз Дубая
 date: 2022-02-07T11:20:35+03:00
-featured_image: pencil/ain-dubai/gallery/ain-dubai-1.jpg
 
 gridSize: 1
 pencilCount: 1

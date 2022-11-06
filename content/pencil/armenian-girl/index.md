@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-05-03
-featured_image: pencil/armenian-girl/gallery/armenian-girl-1.jpg
+
 key: armenian-girl
 title: Армянская девушка
 

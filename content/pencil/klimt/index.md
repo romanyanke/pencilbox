@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-01-03
-featured_image: pencil/klimt/gallery/klimt-1.jpg
+
 key: klimt
 title: Густав Климт
 

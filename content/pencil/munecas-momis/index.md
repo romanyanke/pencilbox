@@ -3,7 +3,7 @@ type: pencil
 key: munecas-momis
 title: Мексиканская кукла
 date: 2021-07-17T21:50:55+03:00
-featured_image: pencil/munecas-momis/gallery/munecas-momis-1.jpg
+
 
 gridSize: 3
 pencilCount: 1

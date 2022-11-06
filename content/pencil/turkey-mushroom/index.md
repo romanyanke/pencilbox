@@ -3,7 +3,7 @@ type: pencil
 key: turkey-mushroom
 title: Поганка
 date: 2020-10-21T17:16:01+03:00
-featured_image: pencil/turkey-mushroom/gallery/turkey-mushroom-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

@@ -3,7 +3,7 @@ type: pencil
 key: eternal
 title: Вечный карандаш
 date: 2020-09-14T10:59:02+03:00
-featured_image: pencil/eternal/gallery/eternal-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

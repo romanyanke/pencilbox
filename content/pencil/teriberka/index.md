@@ -3,7 +3,7 @@ type: pencil
 key: teriberka
 title: Териберка
 date: 2021-06-16T13:19:50+03:00
-featured_image: pencil/teriberka/gallery/teriberka-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

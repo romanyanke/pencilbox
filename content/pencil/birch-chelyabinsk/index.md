@@ -3,7 +3,7 @@ type: pencil
 key: birch-chelyabinsk
 title: Березовый Челябинск
 date: 2021-11-05T13:04:34+03:00
-featured_image: pencil/birch-chelyabinsk/gallery/birch-chelyabinsk-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

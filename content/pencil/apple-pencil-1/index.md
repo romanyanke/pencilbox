@@ -3,7 +3,7 @@ type: pencil
 key: apple-pencil-1
 title: "Apple Pencil 1"
 date: 2021-01-22T09:10:30+03:00
-featured_image: pencil/apple-pencil-1/gallery/apple-pencil-1-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

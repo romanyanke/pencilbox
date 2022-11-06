@@ -3,7 +3,7 @@ type: pencil
 key: green-bee
 title: Зеленая пчелка
 date: 2021-03-09T21:01:59+01:00
-featured_image: pencil/green-bee/gallery/green-bee-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

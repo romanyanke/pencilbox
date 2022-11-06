@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-07-08
-featured_image: pencil/lennusadam/gallery/lennusadam-1.jpg
+
 key: lennusadam
 title: Леннусадам
 

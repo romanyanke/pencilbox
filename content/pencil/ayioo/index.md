@@ -3,7 +3,6 @@ type: pencil
 key: ayioo
 title: Ayioo
 date: 2022-06-27T16:02:00+03:00
-featured_image: pencil/ayioo/gallery/ayioo-1.jpg
 
 gridSize: 2
 pencilCount: 1

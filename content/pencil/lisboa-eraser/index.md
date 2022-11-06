@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2019-05-01
-featured_image: pencil/lisboa-eraser/gallery/lisboa-eraser-1.jpg
+
 key: lisboa-eraser
 title: Стирательный карандаш
 

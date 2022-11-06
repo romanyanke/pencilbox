@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2018-04-28
-featured_image: pencil/surf/gallery/surf-1.jpg
+
 key: surf
 title: Серф на острове Сиаргао
 

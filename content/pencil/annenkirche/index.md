@@ -3,7 +3,7 @@ type: pencil
 key: annenkirche
 title: Анненкирхе
 date: 2021-01-18T11:13:33+03:00
-featured_image: pencil/annenkirche/gallery/annenkirche-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

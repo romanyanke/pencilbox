@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2018-01-02
-featured_image: pencil/squirrel/gallery/squirrel-1.jpg
+
 key: squirrel
 title: Новогодняя белка
 

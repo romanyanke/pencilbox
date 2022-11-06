@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-07-01
-featured_image: pencil/ergonomic/gallery/ergonomic-1.jpg
+
 
 key: ergonomic
 title: Эргономичный

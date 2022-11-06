@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-01-09
-featured_image: pencil/marinabaysands/gallery/marinabaysands-1.jpg
+
 key: marinabaysands
 title: Marina Bay Sands
 

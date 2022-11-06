@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-12-08
-featured_image: pencil/louvre-abu-dhabi/gallery/louvre-abu-dhabi-1.jpg
+
 
 key: louvre-abu-dhabi
 title: Копия Лувра в Абу-Даби

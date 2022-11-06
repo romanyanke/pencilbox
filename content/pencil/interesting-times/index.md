@@ -3,7 +3,7 @@ type: pencil
 gridSize: 1
 date: 2019-03-30
 
-featured_image: pencil/interesting-times/gallery/interesting-times-1.jpg
+
 key: interesting-times
 title: В интересное время живем
 

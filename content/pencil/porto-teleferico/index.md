@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2019-05-01
-featured_image: pencil/porto-teleferico/gallery/porto-teleferico-1.jpg
+
 key: porto-teleferico
 title: Канатная дорога
 

@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-07-14
-featured_image: pencil/barandash/gallery/barandash-1.jpg
+
 
 key: barandash
 title: Барандаш

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2017-09-02
-featured_image: pencil/vangogh/gallery/vangogh-1.jpg
+
 key: vangogh
 title: Музей Ван Гога в Амстердаме
 

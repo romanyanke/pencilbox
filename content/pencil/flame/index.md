@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-05-14
-featured_image: pencil/flame/gallery/flame-1.jpg
+
 key: flame
 title: Болгарское пламя
 

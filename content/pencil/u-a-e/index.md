@@ -3,7 +3,7 @@ type: pencil
 key: u-a-e
 title: "U.A.E."
 date: 2022-02-07T09:23:26+03:00
-featured_image: pencil/u-a-e/gallery/u-a-e-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2020-02-16
-featured_image: pencil/huahin-stone/gallery/huahin-stone-1.jpg
+
 
 key: huahin-stone
 title: Дистанционный столб Хуахина

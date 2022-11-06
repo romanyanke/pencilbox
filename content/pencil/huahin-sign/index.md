@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2020-02-16
-featured_image: pencil/huahin-sign/gallery/huahin-sign-1.jpg
+
 
 key: huahin-sign
 title: หัวหิน

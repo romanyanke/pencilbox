@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2019-05-28
-featured_image: pencil/jetbrains/gallery/jetbrains-1.jpg
+
 key: jetbrains
 title: JetBrains
 

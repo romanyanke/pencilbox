@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-09-18
-featured_image: pencil/rembrandt/gallery/rembrandt-1.jpg
+
 
 key: rembrandt
 title: Ночной дозор

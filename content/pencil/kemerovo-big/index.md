@@ -3,7 +3,7 @@ type: pencil
 key: kemerovo-big
 title: Большой Кемерово
 date: 2020-09-09T10:42:52+03:00
-featured_image: pencil/kemerovo-big/gallery/kemerovo-big-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

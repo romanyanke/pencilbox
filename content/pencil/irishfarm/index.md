@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-07-16
-featured_image: pencil/irishfarm/gallery/irishfarm-1.jpg
+
 key: irishfarm
 title: Ирландская ферма
 

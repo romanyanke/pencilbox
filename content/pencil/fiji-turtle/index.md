@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-07-01
-featured_image: pencil/fiji-turtle/gallery/fiji-turtle-1.jpg
+
 
 key: fiji-turtle
 title: Черепаха с Фиджи

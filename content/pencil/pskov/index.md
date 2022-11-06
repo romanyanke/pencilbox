@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2018-11-04
-featured_image: pencil/pskov/gallery/pskov-1.jpg
+
 key: pskov
 title: Псков
 

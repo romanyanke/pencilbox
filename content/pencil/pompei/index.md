@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2019-03-30
-featured_image: pencil/pompei/gallery/pompei-1.jpg
+
 key: pompei
 title: Вулкан Помпеи
 

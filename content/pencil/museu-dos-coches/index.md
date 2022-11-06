@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-05-01
-featured_image: pencil/museu-dos-coches/gallery/museu-dos-coches-1.jpg
+
 key: museu-dos-coches
 title: Кучер
 

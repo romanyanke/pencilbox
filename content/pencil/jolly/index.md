@@ -3,7 +3,7 @@ type: pencil
 key: jolly
 title: Маленькая стирательная резинка
 date: 2021-03-09T20:59:47+01:00
-featured_image: pencil/jolly/gallery/jolly-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

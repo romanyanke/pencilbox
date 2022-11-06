@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-09-02
-featured_image: pencil/belarus/gallery/belarus-1.jpg
+
 key: belarus
 title: Belarus
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-01-04
-featured_image: pencil/varpines/gallery/varpines-1.jpg
+
 key: varpines
 title: Lobynas varpiné požemiai
 

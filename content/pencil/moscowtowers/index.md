@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-09-30
-featured_image: pencil/moscowtowers/gallery/moscowtowers-1.jpg
+
 key: moscowtowers
 title: Московские башни
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2018-10-02
-featured_image: pencil/sanssoucci/gallery/sanssoucci-1.jpg
+
 key: sanssoucci
 title: sanssoucci
 

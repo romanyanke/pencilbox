@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2018-01-19
-featured_image: pencil/gopiter/gallery/gopiter-1.jpg
+
 key: gopiter
 title: В любой непонятной ситуации
 

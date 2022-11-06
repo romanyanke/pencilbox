@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-01-15
-featured_image: pencil/munchen-big/gallery/munchen-big-1.jpg
+
 key: munchen-big
 title: Толстая вещь
 

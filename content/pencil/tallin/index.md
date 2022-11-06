@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-07-07
-featured_image: pencil/tallin/gallery/tallin-1.jpg
+
 key: tallin
 title: Полосатый Таллин
 

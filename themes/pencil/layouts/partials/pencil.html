@@ -33,11 +33,9 @@
 {{- end -}}
 
 {{- $thumb := index (.Resources.ByType "image") 0 -}}
-{{- $preview := ($thumb.Resize "300x").Permalink -}}
 
 {{- $scratch.SetInMap "json" "grid" $short.grid -}}
 {{- $scratch.SetInMap "json" "id" $short.id -}}
-{{- $scratch.SetInMap "json" "preview" $short.preview -}}
 {{- $scratch.SetInMap "json" "title" $short.title  -}}
 {{- $scratch.SetInMap "json" "city" $city -}}
 {{- $scratch.SetInMap "json" "content" $text -}}

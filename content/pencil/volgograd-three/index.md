@@ -3,7 +3,7 @@ type: pencil
 key: volgograd-three
 title: Трое из Волгограда
 date: 2021-06-16T13:15:15+03:00
-featured_image: pencil/volgograd-three/gallery/volgograd-three-1.jpg
+
 
 gridSize: 1
 pencilCount: 3

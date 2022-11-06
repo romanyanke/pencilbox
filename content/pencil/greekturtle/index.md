@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2018-06-03
-featured_image: pencil/greekturtle/gallery/greekturtle-1.jpg
+
 key: greekturtle
 title: Большая греческая черепаха
 

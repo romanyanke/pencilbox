@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2019-03-30
-featured_image: pencil/ischia/gallery/ischia-1.jpg
+
 key: ischia
 title: Вулканический остров Искья
 

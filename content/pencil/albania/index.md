@@ -3,7 +3,6 @@ type: pencil
 key: albania
 title: Албания
 date: 2021-06-16T13:45:47+03:00
-featured_image: pencil/albania/gallery/albania-1.jpg
 
 gridSize: 1
 pencilCount: 1

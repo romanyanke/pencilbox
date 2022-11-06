@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-07-01
-featured_image: pencil/sketching/gallery/sketching-1.jpg
+
 key: sketching
 title: Карандаш для скетчей
 

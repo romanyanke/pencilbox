@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-11-10
-featured_image: pencil/waves/gallery/waves-1.jpg
+
 key: waves
 title: Волны
 

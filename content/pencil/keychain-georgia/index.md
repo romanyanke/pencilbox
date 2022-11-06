@@ -3,7 +3,6 @@ type: pencil
 key: keychain-georgia
 title: Брелок из Грузии
 date: 2021-09-26T10:33:20+04:00
-featured_image: pencil/keychain-georgia/gallery/keychain-georgia-1.jpg
 
 gridSize: 1
 pencilCount: 1

@@ -3,7 +3,7 @@ type: pencil
 key: cuba
 title: Пляжная Куба
 date: 2021-02-04T17:30:23+03:00
-featured_image: pencil/cuba/gallery/cuba-1.jpg
+
 
 gridSize: 3
 pencilCount: 1

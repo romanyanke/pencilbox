@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2020-02-26
-featured_image: pencil/malaysian-doll/gallery/malaysian-doll-1.jpg
+
 
 key: malaysian-doll
 title: Кукла из Малайзии

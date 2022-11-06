@@ -3,7 +3,7 @@ type: pencil
 key: beograd
 title: Београд
 date: 2021-03-09T21:00:59+01:00
-featured_image: pencil/beograd/gallery/beograd-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

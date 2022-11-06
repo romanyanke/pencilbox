@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-07-01
-featured_image: pencil/russian-museum/gallery/russian-museum-1.jpg
+
 
 key: russian-museum
 title: Русский музей

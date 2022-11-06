@@ -3,7 +3,7 @@ type: pencil
 key: nogai
 title: Ногай
 date: 2020-08-16T06:52:22+03:00
-featured_image: pencil/nogai/gallery/nogai-1.jpg
+
 
 gridSize: 1
 pencilCount: 1

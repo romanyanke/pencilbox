@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2019-03-30
-featured_image: pencil/broken-art/gallery/broken-art-1.jpg
+
 key: broken-art
 title: Сломанное искусство
 

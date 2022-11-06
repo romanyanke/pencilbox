@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-09-13
-featured_image: pencil/swedish-moose/gallery/swedish-moose-1.jpg
+
 
 key: swedish-moose
 title: Шведский лось

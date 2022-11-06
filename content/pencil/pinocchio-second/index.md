@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2018-11-01
-featured_image: pencil/pinocchio-second/gallery/pinocchio-second-1.jpg
+
 key: pinocchio-second
 title: Брат Пиноккио
 

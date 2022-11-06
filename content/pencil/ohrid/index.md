@@ -3,7 +3,7 @@ type: pencil
 key: ohrid
 title: Охрид
 date: 2021-06-16T14:05:49+03:00
-featured_image: pencil/ohrid/gallery/ohrid-1.jpg
+
 
 gridSize: 2
 pencilCount: 1

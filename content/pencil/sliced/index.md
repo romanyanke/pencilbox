@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-06-20
-featured_image: pencil/sliced/gallery/sliced-1.jpg
+
 
 key: sliced
 title: Отрезанный бок

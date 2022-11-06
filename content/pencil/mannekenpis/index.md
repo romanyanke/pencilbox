@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-09-02
-featured_image: pencil/mannekenpis/gallery/mannekenpis-1.jpg
+
 key: mannekenpis
 title: Писающий мальчик (Manneken Pis)
 

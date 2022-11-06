@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2019-06-20
-featured_image: pencil/universal-writing/gallery/universal-writing-1.jpg
+
 
 key: universal-writing
 title: Универсальные

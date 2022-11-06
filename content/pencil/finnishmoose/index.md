@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2018-06-18
-featured_image: pencil/finnishmoose/gallery/finnishmoose-1.jpg
+
 key: finnishmoose
 title: Финский лось
 

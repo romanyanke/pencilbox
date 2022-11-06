@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2019-03-30
-featured_image: pencil/crayon-aimant/gallery/2gis-1.jpg
+
 key: crayon-aimant
 title: Магнитный карандаш
 

@@ -1,7 +1,7 @@
 ---
 type: pencil
 date: 2020-01-07
-featured_image: pencil/shamrock/gallery/shamrock-1.jpg
+
 
 key: shamrock
 title: Ирландский трилистник

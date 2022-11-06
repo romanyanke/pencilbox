@@ -3,7 +3,7 @@ type: pencil
 key: alupka
 title: Алупка
 date: 2022-01-08T13:21:31+03:00
-featured_image: pencil/alupka/gallery/alupka-1.jpg
+
 
 gridSize: 1
 pencilCount: 1
