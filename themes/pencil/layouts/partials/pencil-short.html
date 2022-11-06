@@ -4,7 +4,6 @@
 {{- $title := .Title -}}
 {{- $grid := .Params.gridSize -}}
 {{- $thumb := index (.Resources.ByType "image") 0 -}}
-{{- $preview := ($thumb.Resize "300x").Permalink -}}
 
 {{- $photos := slice -}}
 {{- with (index (.Resources.ByType "image") 0) -}}
