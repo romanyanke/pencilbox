@@ -1,9 +1,18 @@
-baseURL: "https://romanyanke.github.io/pencilbox"
-# baseURL: "http://localhost:8080/"
-languageCode: "en-us"
-title: "Pencil box"
+# baseURL: "https://romanyanke.github.io/pencilbox"
+baseURL: "http://localhost:8080/"
+
 theme: "pencil"
-Paginate: 30
+Paginate: 20
+
+
+defaultContentLanguage: ru
+languages:
+  en:
+    languageName: English
+    weight: 2
+  ru:
+    languageName: Русский
+    weight: 1
 
 taxonomies:
   category: "categories"

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/ferrari/gallery/ferrari-1.jpg
+
 key: ferrari
 title: Самый быстрый карандаш
 

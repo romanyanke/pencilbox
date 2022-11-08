@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-05-23
-featured_image: pencil/vengr/gallery/vengr-1.jpg
+
 key: vengr
 title: Традиционная венгерка
 

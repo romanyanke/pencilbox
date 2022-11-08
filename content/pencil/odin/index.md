@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-03-27
-featured_image: pencil/odin/gallery/odin-1.jpg
+
 key: odin
 title: Один
 

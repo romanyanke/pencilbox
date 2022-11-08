@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/ceska/gallery/ceska-1.jpg
+
 key: ceska
 title: Чешский триколор
 pencilCount: 2

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-08-07
-featured_image: pencil/prahahouse/gallery/prahahouse-1.jpg
+
 key: prahahouse
 title: Дом из Праги
 

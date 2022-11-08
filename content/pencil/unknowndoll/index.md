@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/unknowndoll/gallery/unknowndoll-1.jpg
+
 key: unknowndoll
 title: Xingzuo
 

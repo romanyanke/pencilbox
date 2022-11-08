@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-07-02
-featured_image: pencil/academpark/gallery/academpark-1.jpg
+
 key: academpark
 title: Академпарк
 

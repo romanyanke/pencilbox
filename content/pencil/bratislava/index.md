@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-12-03
-featured_image: pencil/bratislava/gallery/bratislava-1.jpg
+
 key: bratislava
 title: Церковь Братиславы
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-01-14
-featured_image: pencil/hermitage/gallery/hermitage-1.jpg
+
 key: hermitage
 title: Эрмитаж
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/montenegro/gallery/montenegro-1.jpg
+
 key: montenegro
 title: Montenegro Crna gora
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2016-12-10
-featured_image: pencil/maldives/gallery/maldives-1.jpg
+
 key: maldives
 title: Черепаха Мальдив
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-04-10
-featured_image: pencil/firstline/gallery/firstline-1.jpg
+
 key: firstline
 title: 1st line software
 

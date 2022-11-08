@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2016-06-27
-featured_image: pencil/blackwing/gallery/blackwing-1.jpg
+
 key: blackwing
 title: Blackwing 602
 

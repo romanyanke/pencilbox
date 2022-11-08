@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-04-15
-featured_image: pencil/faberge/gallery/faberge-1.jpg
+
 key: faberge
 title: Мягкий музей Фаберже
 

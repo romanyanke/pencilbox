@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-03-25
-featured_image: pencil/gyeongbokgung/gallery/gyeongbokgung-1.jpg
+
 key: gyeongbokgung
 title: Кёнбоккун
 

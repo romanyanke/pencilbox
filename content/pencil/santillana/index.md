@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-07-11
-featured_image: pencil/santillana/gallery/santillana-1.jpg
+
 key: santillana
 title: Сантильяна-дель-Мар
 

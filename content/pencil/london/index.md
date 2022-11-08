@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-03-26
-featured_image: pencil/london/gallery/london-1.jpg
+
 key: london
 title: Туристический Лондон
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2015-01-01
-featured_image: pencil/thaifish/gallery/thaifish-1.jpg
+
 key: thaifish
 title: Большая тайская Рыба
 

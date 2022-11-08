@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-08-14
-featured_image: pencil/kalem/gallery/kalem-1.jpg
+
 key: kalem
 title: Турецкий карандаш из Азербайджана
 

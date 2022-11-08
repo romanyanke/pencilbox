@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/paris/gallery/paris-1.jpg
+
 key: paris
 title: Париж достопримечательностей
 

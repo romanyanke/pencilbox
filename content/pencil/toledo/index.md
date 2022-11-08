@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/toledo/gallery/toledo-1.jpg
+
 key: toledo
 title: Достопримечательности Мадрида
 
@@ -13,7 +13,6 @@ geo: ESP
 
 tags:
   - город
-
   - круглый
   - с резинкой
   - тупой

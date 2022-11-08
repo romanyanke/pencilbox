@@ -2,9 +2,9 @@
 type: pencil
 gridSize: 1
 date: 2016-05-31
-featured_image: pencil/avito/gallery/avito-1.jpg
+
 key: avito
-title: Авито
+title: AV
 
 countries: Россия
 cities: Москва
@@ -19,4 +19,5 @@ tags:
   - заточенный
 ---
 
-Как и [карандаш из Сколково](?display=skolkovo), этот я привез с конференции Ритфест, который проходил в Сколково в 2016 году.
+
+Как и [карандаш из Skolkovo](?display=skolkovo), этот я привез с конференции Ритфест, который проходил в Сколково в 2016 году.

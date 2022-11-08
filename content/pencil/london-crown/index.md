@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-11-26
-featured_image: pencil/london-crown/gallery/london-crown-1.jpg
+
 key: london-crown
 title: Лондонская корона
 

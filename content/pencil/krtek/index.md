@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-05-19
-featured_image: pencil/krtek/gallery/krtek-1.jpg
+
 key: krtek
 title: Кртек из мультика
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-11-27
-featured_image: pencil/erarta/gallery/erarta-1.jpg
+
 key: erarta
 title: Музей современного искусства «Эрарта»
 

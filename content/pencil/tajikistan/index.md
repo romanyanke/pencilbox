@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2015-12-03
-featured_image: pencil/tajikistan/gallery/tajikistan-1.jpg
+
 key: tajikistan
 title: Таджикская кукла
 

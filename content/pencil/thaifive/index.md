@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/thaifive/gallery/thaifive-1.jpg
+
 key: thaifive
 title: Пятерка из дерева
 pencilCount: 5

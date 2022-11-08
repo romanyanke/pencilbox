@@ -1,7 +1,7 @@
 ---
 type: pencil
 key: shiny-black
-title: "Shiny Black"
+title: Shiny Black
 date: 2021-04-14T17:11:50+02:00
 
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2015-09-01
-featured_image: pencil/balibird/gallery/balibird-1.jpg
+
 key: balibird
 title: Птица Бали
 

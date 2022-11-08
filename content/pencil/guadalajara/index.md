@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/guadalajara/gallery/guadalajara-1.jpg
+
 key: guadalajara
 title: Дон Кихот
 

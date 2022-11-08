@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-08-15
-featured_image: pencil/heydaraliyev/gallery/heydaraliyev-1.jpg
+
 key: heydaraliyev
 title: Центр Гейдара Алиева
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/alcala/gallery/alcala-1.jpg
+
 key: alcala
 title: Университет Алькалы
 
@@ -12,8 +12,6 @@ latlng: 40.481847, -3.363275
 geo: ESP
 
 tags:
-
-
   - круглый
   - без резинки
   - заточенный

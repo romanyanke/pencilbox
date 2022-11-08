@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/dubaicamel/gallery/dubaicamel-1.jpg
+
 key: dubaicamel
 title: Верблюд из Дубая
 

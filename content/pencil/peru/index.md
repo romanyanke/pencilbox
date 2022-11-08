@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2016-05-15
-featured_image: pencil/peru/gallery/peru-1.jpg
+
 key: peru
 title: Оранжевый Перу
 

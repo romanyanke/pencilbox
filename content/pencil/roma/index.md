@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-01-01
-featured_image: pencil/roma/gallery/roma-1.jpg
+
 key: roma
 title: Римский Пиноккио
 

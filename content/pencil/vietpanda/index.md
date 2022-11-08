@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/vietpanda/gallery/vietpanda-1.jpg
+
 key: vietpanda
 title: Панда из Нячанга
 

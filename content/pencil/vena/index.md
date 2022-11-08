@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-12-01
-featured_image: pencil/vena/gallery/vena-1.jpg
+
 key: vena
 title: Пара из Вены
 pencilCount: 2

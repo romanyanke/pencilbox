@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-01-22
-featured_image: pencil/osetia/gallery/osetia-1.jpg
+
 key: osetia
 title: Привет из Осетии!
 

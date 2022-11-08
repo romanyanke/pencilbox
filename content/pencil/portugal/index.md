@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-01-01
-featured_image: pencil/portugal/gallery/portugal-1.jpg
+
 key: portugal
 title: Резиновый флаг Португалии
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-08-07
-featured_image: pencil/orszaghaz/gallery/orszaghaz-1.jpg
+
 key: orszaghaz
 title: Országház
 

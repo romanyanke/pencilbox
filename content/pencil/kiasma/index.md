@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-12-10
-featured_image: pencil/kiasma/gallery/kiasma-1.jpg
+
 key: kiasma
 title: Музей современного искусства «Киасма»
 

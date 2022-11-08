@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/chinaflex/gallery/chinaflex-1.jpg
+
 key: chinaflex
 title: Гибкий карандаш
 

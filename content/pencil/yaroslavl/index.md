@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-03-20
-featured_image: pencil/yaroslavl/gallery/yaroslavl-1.jpg
+
 key: yaroslavl
 title: Большой Ярославль
 

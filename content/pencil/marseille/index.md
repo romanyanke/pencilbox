@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-07-08
-featured_image: pencil/marseille/gallery/marseille-1.jpg
+
 key: marseille
 title: Достопримечательности Марселя
 

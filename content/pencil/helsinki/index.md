@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-01-22
-featured_image: pencil/helsinki/gallery/helsinki-1.jpg
+
 key: helsinki
 title: Олененок музея естествознания
 

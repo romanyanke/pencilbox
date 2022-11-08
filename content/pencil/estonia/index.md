@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-01-22
-featured_image: pencil/estonia/gallery/estonia-1.jpg
+
 key: estonia
 title: ESTONIA
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-05-15
-featured_image: pencil/iceland/gallery/iceland-1.jpg
+
 key: iceland
 title: Исландия
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/tomsk/gallery/tomsk-1.jpg
+
 key: tomsk
 title: Томск Конструктор
 

@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/chinabig/gallery/chinabig-1.jpg
+
 key: chinabig
 title: Самый большой
 

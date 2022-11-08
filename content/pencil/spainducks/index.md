@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/spainducks/gallery/spainducks-1.jpg
+
 key: spainducks
 title: Утки
 pencilCount: 2

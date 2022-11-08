@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-12-03
-featured_image: pencil/spongebob/gallery/spongebob-1.jpg
+
 key: spongebob
 pencilCount: 2
 title: Спанч Боб и Патрик

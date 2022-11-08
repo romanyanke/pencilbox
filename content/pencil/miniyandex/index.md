@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2016-10-29
-featured_image: pencil/miniyandex/gallery/miniyandex-1.jpg
+
 key: miniyandex
 title: Раскрашу всё
 

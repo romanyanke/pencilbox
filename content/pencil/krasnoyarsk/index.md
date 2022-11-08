@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2016-05-08
-featured_image: pencil/krasnoyarsk/gallery/krasnoyarsk-1.jpg
+
 key: krasnoyarsk
 title: Красноярск
 

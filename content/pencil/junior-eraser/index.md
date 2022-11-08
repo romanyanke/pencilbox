@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-11-11
-featured_image: pencil/junior-eraser/gallery/junior-eraser-1.jpg
+
 key: junior-eraser
 title: Юный стиратель
 

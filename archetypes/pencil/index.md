@@ -1,18 +1,15 @@
 ---
 type: pencil
 key: {{ .Name }}
-title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-featured_image: pencil/{{ .Name }}/gallery/{{ .Name }}-1.jpg
-
-gridSize: 1
 pencilCount: 1
-
-countries:
-cities:
+gridSize: 1
 latlng:
 geo:
 
+countries:
+cities:
+title: "{{ replace .Name "-" " " | title }}"
 tags:
   - без резинки
   - с резинкой

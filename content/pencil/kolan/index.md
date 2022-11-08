@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2015-09-01
-featured_image: pencil/kolan/gallery/kolan-1.jpg
+
 key: kolan
 title: เกาะล้าน
 

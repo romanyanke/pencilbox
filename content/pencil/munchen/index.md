@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2016-01-22
-featured_image: pencil/munchen/gallery/munchen-1.jpg
+
 key: munchen
 title: Мюнхенская пара
 pencilCount: 2

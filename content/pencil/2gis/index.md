@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2015-09-01
-featured_image: pencil/2gis/gallery/2gis-1.jpg
+
 key: 2gis
 title: Двагис
 

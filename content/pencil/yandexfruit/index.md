@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 2
 date: 2017-07-06
-featured_image: pencil/yandexfruit/gallery/yandexfruit-1.jpg
+
 key: yandexfruit
 title: Фрукты Яндекса
 

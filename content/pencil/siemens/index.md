@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-06-02
-featured_image: pencil/siemens/gallery/siemens-1.jpg
+
 key: siemens
 title: Сименс
 

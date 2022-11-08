@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 1
 date: 2017-06-02
-featured_image: pencil/roscongress/gallery/roscongress-1.jpg
+
 key: roscongress
 title: Росконгресс
 

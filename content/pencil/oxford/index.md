@@ -2,7 +2,7 @@
 type: pencil
 gridSize: 3
 date: 2016-03-26
-featured_image: pencil/oxford/gallery/oxford-1.jpg
+
 key: oxford
 title: Бодлианская библиотека
 
