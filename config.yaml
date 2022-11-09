@@ -1,5 +1,5 @@
-# baseURL: "https://romanyanke.github.io/pencilbox"
-baseURL: "http://localhost:8080/"
+baseURL: "https://romanyanke.github.io/pencilbox"
+# baseURL: "http://localhost:8080/"
 
 theme: "pencil"
 Paginate: 20
