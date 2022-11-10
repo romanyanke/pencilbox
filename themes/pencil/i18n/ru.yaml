@@ -1,0 +1,11 @@
+- id: pencil
+  translation:
+    one: карандаш
+    few: карандаша
+    many: карандашей
+
+- id: country
+  translation:
+    one: страна
+    few: страны
+    many: стран
