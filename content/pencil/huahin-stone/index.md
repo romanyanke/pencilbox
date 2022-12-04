@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-02-16
 
-
 key: huahin-stone
 title: Дистанционный столб Хуахина
 

@@ -4,7 +4,6 @@ key: ohrid
 title: Ohrid
 date: 2021-06-16T14:05:49+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -19,6 +18,4 @@ tags:
   - hexagon
   - country
   - city
-
 ---
-

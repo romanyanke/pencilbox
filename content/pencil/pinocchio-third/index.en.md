@@ -20,4 +20,3 @@ tags:
   - human
   - hexagon
 ---
-

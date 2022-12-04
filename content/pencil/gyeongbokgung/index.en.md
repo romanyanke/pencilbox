@@ -16,10 +16,7 @@ pencilCount: 2
 tags:
   - set
 
-
   - round
   - without rubber
   - blunt
-
 ---
-

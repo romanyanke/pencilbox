@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-06-20
 
-
 key: sliced
 title: Severed side
 
@@ -21,4 +20,3 @@ tags:
   - unusual
   - sliced
 ---
-

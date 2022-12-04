@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-02-16
 
-
 key: huahin-sign
 title: หัวหิน
 
@@ -20,6 +19,4 @@ tags:
   - hexagon
   - city
   - with a toy
-
 ---
-

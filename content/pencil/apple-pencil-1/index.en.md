@@ -4,7 +4,6 @@ key: apple-pencil-1
 title: Apple Pencil 1
 date: 2021-01-22T09:10:30+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -19,7 +18,6 @@ tags:
   - used
   - round
   - unusual
-
 ---
 
 A regular Apple Pencil

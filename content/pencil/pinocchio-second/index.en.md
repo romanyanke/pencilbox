@@ -23,4 +23,3 @@ tags:
   - without rubber
   - blunt
 ---
-

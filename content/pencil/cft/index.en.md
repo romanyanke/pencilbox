@@ -15,11 +15,8 @@ tags:
   - free
   - corporate
 
-
   - round
   - without rubber
   - used
   - sharpened
-
 ---
-

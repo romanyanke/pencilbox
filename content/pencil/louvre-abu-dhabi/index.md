@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-12-08
 
-
 key: louvre-abu-dhabi
 title: Копия Лувра в Абу-Даби
 

@@ -18,7 +18,6 @@ tags:
   - round
   - with rubber
   - blunt
-
 ---
 
 The Rooster of Barcelos is sold as a souvenir from Portugal.

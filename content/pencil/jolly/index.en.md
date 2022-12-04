@@ -4,7 +4,6 @@ key: jolly
 title: Small eraser
 date: 2021-03-09T20:59:47+01:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -18,6 +17,4 @@ tags:
   - sharpened
   - hexagon
   - unusual
-
 ---
-

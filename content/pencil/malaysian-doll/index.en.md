@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-02-26
 
-
 key: malaysian-doll
 title: Doll from Malaysia
 
@@ -23,6 +22,4 @@ tags:
   - handcrafted
   - with a toy
   - sliced
-
 ---
-

@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-02-28
 
-
 key: camels-in-qatar
 title: Camels in Qatar
 
@@ -22,4 +21,3 @@ tags:
   - animal
   - with a toy
 ---
-

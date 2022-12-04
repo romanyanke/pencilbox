@@ -12,11 +12,7 @@ latlng: 41.902049, 12.452425
 geo: VAT
 
 tags:
-
-
   - round
   - with rubber
   - blunt
-
 ---
-

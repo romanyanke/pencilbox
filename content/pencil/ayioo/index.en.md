@@ -18,7 +18,6 @@ tags:
   - round
   - country
   - animal
-
 ---
 
 The blue elephant with the tied trunk is my first pencil from Sri Lanka! Also, this pencil is soft because it is covered with a soft cloth.

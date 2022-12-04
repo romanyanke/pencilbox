@@ -4,7 +4,6 @@ key: nogai
 title: Nogai
 date: 2020-08-16T06:52:22+03:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -19,6 +18,4 @@ tags:
   - free
   - round
   - hotel
-
 ---
-

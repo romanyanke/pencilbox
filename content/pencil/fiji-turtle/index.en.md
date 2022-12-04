@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-07-01
 
-
 key: fiji-turtle
 title: Turtle from Fiji
 
@@ -20,4 +19,3 @@ tags:
   - round
   - country
 ---
-

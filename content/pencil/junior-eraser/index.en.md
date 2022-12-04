@@ -21,4 +21,3 @@ tags:
   - used
   - sharpened
 ---
-

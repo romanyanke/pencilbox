@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-12-08
 
-
 key: louvre-abu-dhabi
 title: Replica of the Louvre in Abu Dhabi
 
@@ -22,4 +21,3 @@ tags:
   - museum
   - unusual
 ---
-

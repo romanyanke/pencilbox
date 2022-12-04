@@ -14,11 +14,8 @@ geo: FRA
 tags:
   - city
 
-
   - round
   - without rubber
   - used
   - sharpened
-
 ---
-

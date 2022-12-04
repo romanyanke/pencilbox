@@ -16,10 +16,7 @@ tags:
   - country
   - set
 
-
   - round
   - with rubber
   - blunt
-
 ---
-

@@ -16,10 +16,7 @@ tags:
   - city
   - set
 
-
   - round
   - with rubber
   - sharpened
-
 ---
-

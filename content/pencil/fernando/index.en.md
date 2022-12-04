@@ -18,6 +18,4 @@ tags:
   - hexagon
   - with rubber
   - sharpened
-
 ---
-

@@ -16,10 +16,7 @@ pencilCount: 1
 tags:
   - packed
 
-
   - round
   - without rubber
   - sharpened
-
 ---
-

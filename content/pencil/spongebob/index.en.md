@@ -17,10 +17,7 @@ tags:
   - animal
   - big rubber
 
-
   - round
   - with rubber
   - used
-
 ---
-

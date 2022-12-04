@@ -14,11 +14,8 @@ geo: MNE
 tags:
   - country
 
-
   - round
   - with rubber
 
   - blunt
-
 ---
-

@@ -16,6 +16,4 @@ tags:
   - triangle
   - with rubber
   - sharpened
-
 ---
-

@@ -15,5 +15,4 @@ tags:
   - round
   - without rubber
   - sharpened
-
 ---

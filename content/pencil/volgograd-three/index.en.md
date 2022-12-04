@@ -4,7 +4,6 @@ key: volgograd-three
 title: Three from Volgograd
 date: 2021-06-16T13:15:15+03:00
 
-
 gridSize: 1
 pencilCount: 3
 
@@ -20,6 +19,4 @@ tags:
   - round
   - city
   - set
-
 ---
-

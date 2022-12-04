@@ -14,10 +14,7 @@ geo: MLT
 tags:
   - country
 
-
   - round
   - with rubber
   - blunt
-
 ---
-

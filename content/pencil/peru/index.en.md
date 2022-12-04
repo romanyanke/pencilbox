@@ -20,4 +20,3 @@ tags:
   - without rubber
   - sharpened
 ---
-

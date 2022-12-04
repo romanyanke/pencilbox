@@ -18,10 +18,7 @@ tags:
   - set
   - color
 
-
   - triangle
   - with rubber
   - blunt
-
 ---
-

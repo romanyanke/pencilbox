@@ -17,4 +17,3 @@ tags:
   - with rubber
   - blunt
 ---
-

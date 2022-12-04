@@ -4,7 +4,6 @@ key: dali-portrait
 title: Portrait of Dali
 date: 2021-11-07T13:08:10+03:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -19,4 +18,3 @@ tags:
   - round
   - human
 ---
-

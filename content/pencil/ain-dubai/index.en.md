@@ -19,7 +19,6 @@ tags:
   - country
   - city
   - with a toy
-
 ---
 
 "Ain Dubai" is translated "Eye of Dubai". It's the biggest Ferris wheel in the world.

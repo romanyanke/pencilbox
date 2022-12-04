@@ -14,10 +14,7 @@ geo: ITA
 tags:
   - museum
 
-
   - round
   - without rubber
   - sharpened
-
 ---
-

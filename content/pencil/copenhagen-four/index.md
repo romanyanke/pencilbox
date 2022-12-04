@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-11-15
 
-
 key: copenhagen-four
 title: Четверка из Копенгагена
 

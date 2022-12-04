@@ -17,9 +17,6 @@ tags:
   - country
   - set
 
-
   - with rubber
   - blunt
-
 ---
-

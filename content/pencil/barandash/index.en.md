@@ -23,4 +23,3 @@ tags:
   - with a toy
   - color
 ---
-

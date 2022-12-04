@@ -4,7 +4,6 @@ key: teriberka
 title: Teriberka
 date: 2021-06-16T13:19:50+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -21,6 +20,4 @@ tags:
   - unusual
   - sliced
   - color
-
 ---
-

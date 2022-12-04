@@ -17,6 +17,4 @@ tags:
   - with rubber
   - used
   - sharpened
-
 ---
-

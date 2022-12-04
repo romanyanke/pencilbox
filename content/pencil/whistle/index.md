@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-01-03
 
-
 key: whistle
 title: Карандаш–свисток
 

@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-07-01
 
-
 key: ergonomic
 title: Эргономичный
 

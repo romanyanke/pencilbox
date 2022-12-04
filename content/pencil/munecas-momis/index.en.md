@@ -4,7 +4,6 @@ key: munecas-momis
 title: mexican doll
 date: 2021-07-17T21:50:55+03:00
 
-
 gridSize: 3
 pencilCount: 1
 
@@ -20,6 +19,4 @@ tags:
   - country
   - human
   - with a toy
-
 ---
-

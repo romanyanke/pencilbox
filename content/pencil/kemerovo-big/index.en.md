@@ -4,7 +4,6 @@ key: kemerovo-big
 title: Big Kemerovo
 date: 2020-09-09T10:42:52+03:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -19,6 +18,4 @@ tags:
   - hexagon
   - city
   - unusual
-
 ---
-

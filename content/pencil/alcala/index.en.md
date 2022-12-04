@@ -15,7 +15,6 @@ tags:
   - round
   - without rubber
   - sharpened
-
 ---
 
 The Spanish city of Alcala de Henares has a university founded in 1499. This all-black pencil came from there.

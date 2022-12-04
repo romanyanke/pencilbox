@@ -16,4 +16,3 @@ tags:
   - with rubber
   - sharpened
 ---
-

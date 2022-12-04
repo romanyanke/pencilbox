@@ -4,7 +4,6 @@ key: u-a-e
 title: "U.A.E."
 date: 2022-02-07T09:23:26+03:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -20,6 +19,4 @@ tags:
   - country
   - human
   - with a toy
-
 ---
-

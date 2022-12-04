@@ -17,10 +17,7 @@ tags:
   - national
   - country
 
-
   - round
   - without rubber
   - sharpened
-
 ---
-

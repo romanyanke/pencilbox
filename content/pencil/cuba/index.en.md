@@ -4,7 +4,6 @@ key: cuba
 title: Beach Cuba
 date: 2021-02-04T17:30:23+03:00
 
-
 gridSize: 3
 pencilCount: 1
 
@@ -18,6 +17,4 @@ tags:
   - blunt
   - round
   - country
-
 ---
-

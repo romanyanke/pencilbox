@@ -4,7 +4,6 @@ key: beograd
 title: Belgrade
 date: 2021-03-09T21:00:59+01:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -19,6 +18,4 @@ tags:
   - envelope
   - round
   - city
-
 ---
-

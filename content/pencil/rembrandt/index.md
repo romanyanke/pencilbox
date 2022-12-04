@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-09-18
 
-
 key: rembrandt
 title: Ночной дозор
 

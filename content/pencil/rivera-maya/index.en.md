@@ -4,7 +4,6 @@ key: rivera-maya
 title: Riviera Maya
 date: 2021-07-17T22:00:29+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -17,6 +16,4 @@ tags:
   - with rubber
   - blunt
   - round
-
 ---
-

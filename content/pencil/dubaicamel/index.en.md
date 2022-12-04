@@ -20,4 +20,3 @@ tags:
   - used
   - sharpened
 ---
-

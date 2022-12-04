@@ -20,6 +20,4 @@ tags:
   - unusual
   - sliced
   - color
-
 ---
-

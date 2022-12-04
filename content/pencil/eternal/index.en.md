@@ -4,7 +4,6 @@ key: eternal
 title: Eternal pencil
 date: 2020-09-14T10:59:02+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -19,6 +18,4 @@ tags:
   - packed
   - round
   - unusual
-
 ---
-

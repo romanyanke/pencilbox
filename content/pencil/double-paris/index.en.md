@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-09-25
 
-
 key: double-paris
 title: couple from paris
 
@@ -20,4 +19,3 @@ tags:
   - round
   - country
 ---
-

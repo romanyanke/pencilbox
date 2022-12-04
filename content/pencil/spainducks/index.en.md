@@ -17,10 +17,7 @@ tags:
   - set
   - with a toy
 
-
   - round
   - without rubber
   - blunt
-
 ---
-

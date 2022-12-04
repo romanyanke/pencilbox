@@ -17,10 +17,7 @@ tags:
   - city
   - envelope
 
-
   - round
   - without rubber
   - sharpened
-
 ---
-

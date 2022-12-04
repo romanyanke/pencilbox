@@ -14,11 +14,8 @@ geo: CAN
 tags:
   - country
 
-
   - round
   - with rubber
   - used
   - sharpened
-
 ---
-

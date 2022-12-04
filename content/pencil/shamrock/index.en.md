@@ -2,7 +2,6 @@
 type: pencil
 date: 2020-01-07
 
-
 key: shamrock
 title: Irish shamrock
 
@@ -20,4 +19,3 @@ tags:
   - round
   - country
 ---
-

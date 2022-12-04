@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-09-13
 
-
 key: swedish-moose
 title: swedish moose
 
@@ -22,4 +21,3 @@ tags:
   - animal
   - with a toy
 ---
-

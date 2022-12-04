@@ -15,10 +15,7 @@ tags:
   - national
   - country
 
-
   - round
   - with rubber
   - blunt
-
 ---
-

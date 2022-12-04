@@ -16,10 +16,7 @@ pencilCount: 1
 tags:
   - city
 
-
   - round
   - with rubber
   - blunt
-
 ---
-
