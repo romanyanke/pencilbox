@@ -38,13 +38,7 @@
 {{- $scratch.SetInMap "json" "id" $short.id -}}
 {{- $scratch.SetInMap "json" "title" $short.title  -}}
 {{- $scratch.SetInMap "json" "city" $city -}}
-
-{{ if eq .Lang "ru"  }}
-  {{- $scratch.SetInMap "json" "content" $text -}}
-{{ else }}
-  {{- $scratch.SetInMap "json" "content" "" -}}
-{{ end }}
-
+{{- $scratch.SetInMap "json" "content" $text -}}
 {{- $scratch.SetInMap "json" "count" $count -}}
 {{- $scratch.SetInMap "json" "map" $map -}}
 {{- $scratch.SetInMap "json" "photos" $photos -}}
