@@ -17,4 +17,3 @@ tags:
   - round
 ---
 
-На этом карандаше – скелет с картины "Skull with a burning cigarette". А на конверте написано – Van Gogh Museum, оттуда у меня [есть еще один карандаш](?display=vangogh).

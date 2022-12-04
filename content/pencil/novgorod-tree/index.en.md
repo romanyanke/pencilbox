@@ -24,5 +24,3 @@ tags:
   - without rubber
   - sharpened
 ---
-
-Три цветных карандаша в одной ветке дерева!

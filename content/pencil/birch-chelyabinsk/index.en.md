@@ -4,7 +4,6 @@ key: birch-chelyabinsk
 title: Birch
 date: 2021-11-05T13:04:34+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -21,7 +20,5 @@ tags:
   - unusual
   - sliced
   - color
-
 ---
-
 This pencil is made of birch wood.

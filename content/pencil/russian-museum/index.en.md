@@ -2,7 +2,6 @@
 type: pencil
 date: 2019-07-01
 
-
 key: russian-museum
 title: Russian Museum
 
@@ -20,5 +19,3 @@ tags:
   - triangle
   - museum
 ---
-
-Простой красный трегульный карандаш, купленный в сувенирной лавке Русского музея.

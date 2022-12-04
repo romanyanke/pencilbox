@@ -4,7 +4,6 @@ key: knitted-duck
 title: knitted duck
 date: 2021-04-22T23:10:01+03:00
 
-
 gridSize: 2
 pencilCount: 1
 
@@ -20,7 +19,4 @@ tags:
   - round
   - animal
   - with a toy
-
 ---
-
-Желтый карандаш с вязанной уткой на конце. Утра в шарфе и синей шапке. [Турция](?country=TUR) продолжает удивлять необычными карандашами!

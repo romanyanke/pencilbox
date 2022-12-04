@@ -4,7 +4,6 @@ key: armenia-flame
 title: Armenian pattern
 date: 2022-01-08T13:13:35+03:00
 
-
 gridSize: 1
 pencilCount: 1
 
@@ -18,7 +17,5 @@ tags:
   - sharpened
   - round
   - country
-
 ---
-
 It says Armenia and Հայաստան on the sides.

@@ -24,4 +24,3 @@ tags:
   - blunt
 ---
 
-Coachman из музея карет в Lisbonе

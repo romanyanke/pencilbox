@@ -14,11 +14,7 @@ geo: RUS
 tags:
   - city
 
-
   - round
   - without rubber
   - sharpened
-
 ---
-
-Вообще-то, карндаш я нашел в Novosibirskе, но он очень уж похож на томский, поэтому расширяем границы.

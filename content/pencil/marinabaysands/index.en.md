@@ -24,4 +24,3 @@ tags:
   - sharpened
 ---
 
-Marina Bay Sands — гостиница и казино на берегу Marina Bay в Центральном регионе Сингапура. Maleнький как из [икеи](?display=ikea).

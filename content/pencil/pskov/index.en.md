@@ -25,4 +25,3 @@ tags:
   - sharpened
 ---
 
-Maleнький карандаш из Pskovа

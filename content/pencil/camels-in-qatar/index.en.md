@@ -23,4 +23,3 @@ tags:
   - with a toy
 ---
 
-Верблюд – корабль пустыни! У меня уже есть один из соседнего [ОАЭ](?country=ARE) – [первый верблюд](?display=dubaicamel). А теперь у него будет сосед из Катара. На карандаше так и написано: <span style="background-color:#028cba;color:#fff;font-family:serif"><i>Camels</i> in <b>Qatar</b></span>. Одет в национальные одежды, на шее висит сотовый телефон.

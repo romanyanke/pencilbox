@@ -24,8 +24,3 @@ tags:
   - blunt
 ---
 
-- [Пиноккио I](?display=roma)
-- **Пиноккио II**
-- [Пиноккио III](?display=pinocchio-third)
-
-Средний брат-близнец

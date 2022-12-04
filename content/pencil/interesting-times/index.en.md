@@ -18,4 +18,3 @@ tags:
   - blunt
 ---
 
-Карандаш с Венецианской биеннале 2019. May you live in interesting times – это их слоган.

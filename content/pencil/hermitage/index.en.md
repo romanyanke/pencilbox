@@ -20,4 +20,3 @@ tags:
   - sharpened
 ---
 
-Купил в сувернирной лавке в Hermitageе, кажется, за 60 рублей. Обычный белый карандаш, на боку золотым написано <span style="font-family:serif;color: #746250;font-weight: bold;letter-spacing: -2px;">ЭРМИТАЖ</span>. А еще он был упакован в красивый бумажный пакет.

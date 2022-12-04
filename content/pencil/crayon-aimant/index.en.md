@@ -18,4 +18,3 @@ tags:
   - unusual
 ---
 
-С одной стороны написано "Tout simplement", с другой – "Le crayon aimant". Переводится "Просто" b "magnetic pencil". Его и правда можно прикрепить на холодильник.
