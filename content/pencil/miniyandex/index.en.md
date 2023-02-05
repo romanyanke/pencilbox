@@ -22,6 +22,7 @@ tags:
   - round
   - with rubber
   - sharpened
+  - with a sharpener
 ---
 
 <span style='color:#000000'>✏</span>
