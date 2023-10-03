@@ -30,6 +30,7 @@ tags:
   - hexagon
   - triangle
   - oval
+  - rectangle
 
   - country
   - city
