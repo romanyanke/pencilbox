@@ -1,6 +1,6 @@
 ---
 type: pencil
-key: Сан-Марино
+key: san-marino
 date: 2024-04-20T14:58:45+02:00
 pencilCount: 1
 gridSize: 1
