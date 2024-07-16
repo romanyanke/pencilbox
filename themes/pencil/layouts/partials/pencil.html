@@ -2,11 +2,7 @@
 
 {{- $short := ( partial "pencil-short" . ) -}}
 
-{{- $content := .Content -}}
-{{- $updatedContent := replace $content `href="/pencilbox` `href="` -}}
-{{- $text := safeHTML $updatedContent -}}
-
-
+{{- $text := safeHTML .Content -}}
 {{- $id := .Params.key -}}
 {{- $title := .Title -}}
 {{- $grid := .Params.gridSize -}}
