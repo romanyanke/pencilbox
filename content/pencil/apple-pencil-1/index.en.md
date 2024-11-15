@@ -20,4 +20,4 @@ tags:
   - unusual
 ---
 
-A regular Apple Pencil
+A regular Apple Pencil. Not a [pro](?display=apple-pencil-pro) yet.
