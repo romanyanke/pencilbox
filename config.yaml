@@ -2,7 +2,8 @@ baseURL: "https://romanyanke.github.io/pencilbox"
 # baseURL: "http://localhost:8080/"
 
 theme: "pencil"
-Paginate: 20
+pagination:
+  pagerSize: 20
 
 
 defaultContentLanguage: ru
