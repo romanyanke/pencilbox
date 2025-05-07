@@ -9,7 +9,7 @@ countries: Неизвестно
 tags:
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---
 
 I can't remember who brought it to me and where it came from.

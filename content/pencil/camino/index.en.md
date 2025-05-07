@@ -12,7 +12,7 @@ cities: Santiago de Compostela
 title: "Camino de Santiago"
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
 
 ---

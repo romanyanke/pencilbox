@@ -14,7 +14,7 @@ geo: ARE
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - country
   - city

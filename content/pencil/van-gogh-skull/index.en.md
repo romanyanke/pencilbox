@@ -12,7 +12,7 @@ countries: Netherlands
 cities: Amsterdam
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - envelope
   - round
 ---

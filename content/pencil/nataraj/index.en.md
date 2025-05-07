@@ -16,5 +16,5 @@ tags:
 
   - hexagon
   - without rubber
-  - blunt
+  - unsharpened
 ---

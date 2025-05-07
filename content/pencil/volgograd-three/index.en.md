@@ -14,7 +14,7 @@ geo: RUS
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - packed
   - round
   - city

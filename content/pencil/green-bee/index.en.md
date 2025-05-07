@@ -14,7 +14,7 @@ geo: SRB
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - animal
   - with a toy

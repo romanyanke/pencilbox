@@ -19,5 +19,5 @@ tags:
 
   - oval
   - without rubber
-  - blunt
+  - unsharpened
 ---

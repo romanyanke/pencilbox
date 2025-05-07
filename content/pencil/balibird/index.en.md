@@ -18,7 +18,7 @@ tags:
   - packed
 
   - hexagon
-  - blunt
+  - unsharpened
 ---
 
 The most remarkable thing here is the bird with the pink butterfly on its chest. I'd say it's a rhinoceros bird.

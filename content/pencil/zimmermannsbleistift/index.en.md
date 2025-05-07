@@ -12,7 +12,7 @@ cities: Berlin
 title: "Zimmermannsbleistift"
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - rectangle
   - unusual
 

@@ -16,5 +16,5 @@ tags:
   - with a toy
   - hexagon
   - without rubber
-  - blunt
+  - unsharpened
 ---

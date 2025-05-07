@@ -12,7 +12,7 @@ cities: Jerusalem
 title: Jerusalem
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
   - city
 

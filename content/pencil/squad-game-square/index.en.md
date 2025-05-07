@@ -12,7 +12,7 @@ cities: Istanbul
 title: "Squad Game Square"
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - human
   - with a toy

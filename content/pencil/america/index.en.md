@@ -17,7 +17,7 @@ tags:
   - with a toy
   - round
   - without rubber
-  - blunt
+  - unsharpened
 ---
 
 Very American

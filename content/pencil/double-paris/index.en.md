@@ -15,7 +15,7 @@ geo: FRA
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
   - country
 ---

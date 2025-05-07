@@ -15,7 +15,7 @@ geo: SWE
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - country
   - animal

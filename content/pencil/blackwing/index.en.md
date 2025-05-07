@@ -16,7 +16,7 @@ tags:
 
   - hexagon
   - with rubber
-  - blunt
+  - unsharpened
 ---
 
 [Blackwing 602](http://blackwing602.com/product/blackwing-602/) – It's even written about this pencil on Wikipedia. This pencil has a removable rubber band that can be removed from the pencil itself and from the clothespin in which it is located.

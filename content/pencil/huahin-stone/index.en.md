@@ -15,6 +15,6 @@ geo: THA
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
 ---

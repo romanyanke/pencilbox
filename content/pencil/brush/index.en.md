@@ -15,7 +15,7 @@ tags:
   - without rubber
   - round
   - unusual
-  - blunt
+  - unsharpened
 ---
 
 Since the pencil is not sharpened, it looks exactly like a brush and not like a pencil. The brush works and can be used to draw.

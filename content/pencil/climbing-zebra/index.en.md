@@ -12,7 +12,7 @@ cities: Cape Town
 title: "Climbing Zebra"
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
   - animal
   - with a toy

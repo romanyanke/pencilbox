@@ -12,7 +12,7 @@ cities: Berlin
 title: "Sunflower Sprout"
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - packed
   - round
 

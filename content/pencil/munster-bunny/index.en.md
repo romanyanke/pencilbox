@@ -11,7 +11,7 @@ countries: Germany
 cities: Berlin
 title: Münster bunny
 tags:
-  - blunt
+  - unsharpened
   - used
   - round
   - animal

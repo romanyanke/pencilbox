@@ -15,5 +15,5 @@ tags:
   - city
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---

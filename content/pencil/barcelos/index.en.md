@@ -17,7 +17,7 @@ tags:
   - country
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---
 
 The Rooster of Barcelos is sold as a souvenir from Portugal.

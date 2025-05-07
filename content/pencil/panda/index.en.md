@@ -12,7 +12,7 @@ cities: Berlin
 title: Panda sharpener
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - animal
   - with a toy

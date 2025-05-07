@@ -16,7 +16,7 @@ tags:
   - big rubber
 
   - sharpened
-  - blunt
+  - unsharpened
 
   - used
 

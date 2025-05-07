@@ -16,5 +16,5 @@ tags:
   - personalized
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---

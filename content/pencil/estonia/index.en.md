@@ -16,5 +16,5 @@ tags:
   - national
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---

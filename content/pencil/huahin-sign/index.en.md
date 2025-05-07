@@ -15,7 +15,7 @@ geo: THA
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - hexagon
   - city
   - with a toy

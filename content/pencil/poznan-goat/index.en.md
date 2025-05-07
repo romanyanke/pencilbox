@@ -12,7 +12,7 @@ cities: Познань
 title: Poznan Goat
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - city
   - animal

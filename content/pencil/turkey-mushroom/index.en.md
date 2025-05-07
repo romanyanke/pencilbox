@@ -14,7 +14,7 @@ geo: TUR
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - with a toy
 ---

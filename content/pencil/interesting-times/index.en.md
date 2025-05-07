@@ -14,5 +14,5 @@ geo: ITA
 tags:
   - without rubber
   - round
-  - blunt
+  - unsharpened
 ---

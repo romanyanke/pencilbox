@@ -14,7 +14,7 @@ geo: CUB
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - country
 ---

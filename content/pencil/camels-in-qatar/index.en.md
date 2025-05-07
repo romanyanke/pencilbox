@@ -15,7 +15,7 @@ geo: QAT
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - country
   - animal

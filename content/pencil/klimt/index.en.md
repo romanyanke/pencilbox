@@ -16,5 +16,5 @@ pencilCount: 1
 tags:
   - round
   - without rubber
-  - blunt
+  - unsharpened
 ---

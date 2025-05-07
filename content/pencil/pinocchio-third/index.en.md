@@ -16,7 +16,7 @@ tags:
   - national
   - with a toy
   - country
-  - blunt
+  - unsharpened
   - human
   - hexagon
 ---

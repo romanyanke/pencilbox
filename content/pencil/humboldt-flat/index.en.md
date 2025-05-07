@@ -12,7 +12,7 @@ cities: Berlin
 title: "Flat Humboldt"
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - hexagon
   - unusual
 

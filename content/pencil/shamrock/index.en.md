@@ -15,7 +15,7 @@ geo: IRL
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - round
   - country
 ---

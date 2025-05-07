@@ -14,5 +14,5 @@ geo: ARE
 tags:
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---

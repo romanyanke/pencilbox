@@ -14,7 +14,7 @@ geo: MEX
 
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - triangle
   - country
   - human

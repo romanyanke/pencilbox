@@ -21,5 +21,5 @@ tags:
   - set
   - square
   - without rubber
-  - blunt
+  - unsharpened
 ---

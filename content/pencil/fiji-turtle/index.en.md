@@ -15,7 +15,7 @@ geo: FJI
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
   - country
 ---

@@ -20,5 +20,5 @@ tags:
 
   - triangle
   - with rubber
-  - blunt
+  - unsharpened
 ---

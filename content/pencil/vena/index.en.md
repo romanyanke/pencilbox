@@ -18,5 +18,5 @@ tags:
   - set
 
   - with rubber
-  - blunt
+  - unsharpened
 ---

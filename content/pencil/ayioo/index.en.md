@@ -14,7 +14,7 @@ geo: LKA
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
   - country
   - animal

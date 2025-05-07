@@ -15,5 +15,5 @@ tags:
   - round
   - unusual
   - with rubber
-  - blunt
+  - unsharpened
 ---

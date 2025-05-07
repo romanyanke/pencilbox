@@ -14,6 +14,6 @@ geo: MEX
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - round
 ---

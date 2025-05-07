@@ -12,7 +12,7 @@ cities: Antwerp
 title: Shiny Star
 tags:
   - without rubber
-  - blunt
+  - unsharpened
   - hexagon
   - with a toy
 

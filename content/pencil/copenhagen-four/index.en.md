@@ -15,7 +15,7 @@ geo: DNK
 
 tags:
   - with rubber
-  - blunt
+  - unsharpened
   - packed
   - round
   - country

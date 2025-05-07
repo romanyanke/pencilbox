@@ -14,5 +14,5 @@ geo: VAT
 tags:
   - round
   - with rubber
-  - blunt
+  - unsharpened
 ---
