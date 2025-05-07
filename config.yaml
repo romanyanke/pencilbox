@@ -5,6 +5,9 @@ theme: "pencil"
 pagination:
   pagerSize: 20
 
+caches:
+  images:
+    dir: :cacheDir/images
 
 defaultContentLanguage: ru
 languages:
