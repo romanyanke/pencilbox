@@ -19,3 +19,6 @@ Built with [Hugo](https://gohugo.io).
 # Add a country
 
 `hugo new country/<code>.md`
+
+
+Country codes: https://unstats.un.org/unsd/methodology/m49/
