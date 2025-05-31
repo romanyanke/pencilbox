@@ -7,8 +7,8 @@ gridSize: 2
 latlng: 47.374252, 8.535591
 geo: CHE
 
-countries:
-cities:
+countries: Switzerland
+cities: Zurich
 title: "Swiss Pig"
 tags:
   - without rubber
