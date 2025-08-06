@@ -1,4 +1,4 @@
 ---
 type: "custom"
-layout: "taxonomy"
+layout: "collection"
 ---

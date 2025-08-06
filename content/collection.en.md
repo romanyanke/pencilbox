@@ -1,4 +1,4 @@
 ---
 type: "custom"
-layout: "description"
+layout: "collection"
 ---
