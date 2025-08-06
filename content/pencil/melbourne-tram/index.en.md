@@ -7,8 +7,8 @@ gridSize: 2
 latlng: -37.819059, 144.954276
 geo: AUS
 
-countries:
-cities:
+countries: Australia
+cities: Melbourne
 title: "Melbourne Tram"
 tags:
   - without rubber
