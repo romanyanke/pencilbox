@@ -16,3 +16,5 @@ tags:
   - sharpened
   - round
 ---
+
+On one side it says POMPEI, on the other – VESUVIO. And pictures of events.
