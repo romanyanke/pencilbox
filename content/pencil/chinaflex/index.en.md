@@ -18,3 +18,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A striped white-and-red pencil. You can tie it into a knot, but as soon as you let go, it unties, so I did not photograph it.

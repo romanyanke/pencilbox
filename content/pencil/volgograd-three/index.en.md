@@ -20,3 +20,5 @@ tags:
   - city
   - set
 ---
+
+Three identical pencils in a package. Each shows landmarks of Volgograd.

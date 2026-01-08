@@ -20,3 +20,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+All of Iceland: flags as a pattern all over the pencil, a large eraser in the shape of the Icelandic flag.

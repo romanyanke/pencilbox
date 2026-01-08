@@ -18,3 +18,5 @@ tags:
   - sharpened
   - triangle
 ---
+
+Probably all these cut-out grooves are made so the pencil is comfortable to hold. Strange, but all other pencils are comfortable to hold too.

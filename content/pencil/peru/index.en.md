@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A small thick pencil that writes like chalk or some kind of wax pencil (if such exist) in orange color.

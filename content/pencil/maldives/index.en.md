@@ -19,3 +19,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+A wonderful turtle adds to the collection of [animal pencils](?tag=animal). A simple black pencil with the inscription <span style="background: #000;color: #fff;font-family: fantasy;">Malidves</span> and a removable turtle on the end.

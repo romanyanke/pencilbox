@@ -18,3 +18,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+Gustav Klimt is an Austrian painter. But I bought the pencil in the bookshop of Vilnius University in Lithuania. Before that I did not know, but his paintings are interesting.

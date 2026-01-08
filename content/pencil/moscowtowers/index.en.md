@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+I bought these pencils in one of the pavilions of Zaryadye Park in Moscow. Each of the four pencils depicts a tower and its year of construction: Spasskaya, Menshikov, Shukhov, Ostankino.

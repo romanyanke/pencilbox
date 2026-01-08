@@ -19,3 +19,5 @@ tags:
   - triangle
   - museum
 ---
+
+A simple red triangular pencil, bought in the souvenir shop of the Russian Museum.

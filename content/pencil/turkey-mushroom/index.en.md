@@ -18,3 +18,5 @@ tags:
   - round
   - with a toy
 ---
+
+Surprisingly, over the many years I still did not have a single pencil from Turkey, this is the first. I was already ready to take a pencil from the hotel because I could not find any alternative in the souvenir shops, but then in one of them I spotted a whole box of pencils under the counter. The box was full of dust, dirt, and even some feathers; among a hundred worn pencils I chose the most decent one. It is worn and crooked, but I really liked its mushroom. The pencil itself really looks like the stem of a toadstool.

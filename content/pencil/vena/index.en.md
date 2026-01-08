@@ -20,3 +20,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pair of pencils decorated with coats of arms, cities, famous people, and symbols of Austria. One shows Elisabeth of Bavaria, Empress of Austria, and on the other it says The city of music and shows Johann Strauss.

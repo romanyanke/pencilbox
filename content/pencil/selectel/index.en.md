@@ -19,3 +19,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Another Saint Petersburg company was giving away pencils at their booth; I could not pass by.

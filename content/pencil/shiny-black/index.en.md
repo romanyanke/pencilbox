@@ -17,3 +17,5 @@ tags:
   - sharpened
   - round
 ---
+
+Even though the sticker has a German domain, I bought the pencil in Sarajevo. It cost 2.5 euros, but the plastic diamond on the end is glued on crooked. I still liked it.

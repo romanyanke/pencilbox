@@ -18,3 +18,5 @@ tags:
   - round
   - country
 ---
+
+My first pencil from Cuba! A blue wooden pencil, Cuba is burned into the side. On the end: sand, shells, and a bottle with shells. And another shell is dangling on a string. A beach pencil.

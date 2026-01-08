@@ -19,3 +19,5 @@ tags:
   - city
   - unusual
 ---
+
+A huge pencil, 34 cm long. It exactly repeats the shape of the [pencil from Yaroslavl](?display=yaroslavl). But on this one the city name and coat of arms are engraved.

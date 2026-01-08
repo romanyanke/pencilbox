@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A very beautiful pencil! It is made from a branch, slightly curved. A green fish, it seems molded, but it is not clear from what.

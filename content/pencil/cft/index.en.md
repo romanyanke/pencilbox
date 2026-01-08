@@ -20,3 +20,5 @@ tags:
   - used
   - sharpened
 ---
+
+CFT corporate pencil. Over three years of working at this company I had many pencils with the branding, but they were all hexagonal; this rare round one I kept.

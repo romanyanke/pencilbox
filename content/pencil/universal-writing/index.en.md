@@ -19,3 +19,5 @@ tags:
   - round
   - country
 ---
+
+Black, red, and white. Suitable for surfaces like glass, metal, and porcelain. The pencils are unsharpened, but you can see how thick the lead or whatever is inside.

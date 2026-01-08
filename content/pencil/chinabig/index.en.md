@@ -18,3 +18,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+The biggest pencil, its length is 40 centimeters. And it writes like a perfectly ordinary pencil. Decorated with hieroglyphs and photos of some Asian girls. There is also a cap to cover the end of the pencil. There is, of course, a [half-meter pencil](?display=pompidou-flex), but it does not look bigger than this one.

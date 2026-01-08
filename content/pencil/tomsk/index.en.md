@@ -18,3 +18,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Actually, I found the pencil in Novosibirsk, but it looks very Tomsk-like, so we are expanding the boundaries.

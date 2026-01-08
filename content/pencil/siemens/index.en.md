@@ -19,3 +19,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+And another [corporate pencil](?tag=corporate) from a conference, this time Siemens.

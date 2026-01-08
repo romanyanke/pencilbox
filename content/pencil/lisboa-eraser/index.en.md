@@ -22,3 +22,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Actually, this is not a pencil, on the contrary, it is an eraser. A small and heavy object.

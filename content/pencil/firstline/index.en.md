@@ -20,3 +20,5 @@ tags:
   - used
   - sharpened
 ---
+
+I do not know what kind of company this is; I was given this pencil at work.

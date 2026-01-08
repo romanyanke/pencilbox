@@ -19,3 +19,5 @@ tags:
   - used
   - sharpened
 ---
+
+An old worn pencil, I used it a lot, so even the pattern rubbed off.

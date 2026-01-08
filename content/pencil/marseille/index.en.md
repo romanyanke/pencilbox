@@ -19,3 +19,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil in an envelope from Marseille: on one side it says Marseille, on the other - Méditerranée, meaning "Mediterranean". The pencil is covered with photos and captions of various landmarks.

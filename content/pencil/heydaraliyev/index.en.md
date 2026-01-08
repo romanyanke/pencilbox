@@ -17,3 +17,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Heydar Aliyev was the president of [Azerbaijan](?country=AZE) from 1993 to 2003, and they love him there. There is a huge and beautiful center built in his honor, from the souvenir shop of which I brought this pencil.

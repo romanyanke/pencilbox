@@ -17,3 +17,5 @@ tags:
   - round
   - unusual
 ---
+
+On one side it says "Tout simplement", on the other – "Le crayon aimant". It translates as "Simply" and "Magnetic pencil". You really can attach it to the refrigerator.

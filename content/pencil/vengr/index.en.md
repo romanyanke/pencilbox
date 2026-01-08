@@ -18,3 +18,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+I am not very good at what the national costume of the Hungarians should look like, but now I will think that it is roughly like the figurine on this pencil, as with the [girl from Tajikistan](?display=tajikistan).

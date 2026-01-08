@@ -23,3 +23,5 @@ tags:
   - national
   - set
 ---
+
+A set of four red pencils, each says Copenhagen; in the letters P, N, and E there are figures of guardsmen of the Danish Royal Life Guard.

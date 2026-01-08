@@ -22,3 +22,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+In the shop they told me it is a pencil, though it looks more like a little turtle on a stick. Now it is the second turtle in my collection.

@@ -22,3 +22,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+Siargao is a small Philippine island located 800 km southeast of Manila. Off the coast of Siargao is the most famous surf spot in the Philippines, Cloud 9, where annual surfing competitions for the Siargao Cup are held.

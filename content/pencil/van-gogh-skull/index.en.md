@@ -16,3 +16,5 @@ tags:
   - envelope
   - round
 ---
+
+On this pencil is the skeleton from the painting "Skull with a Burning Cigarette". And on the envelope it says Van Gogh Museum, from there I [have another pencil](?display=vangogh).

@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+I bought this pencil in the souvenir shop of the Erarta Museum of Contemporary Art in Saint Petersburg ([Russia](?country=RUS)). And this is another huge pencil they like to make, but they are so inconvenient to store when you end up with several of them.

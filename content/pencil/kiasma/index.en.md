@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Kiasma is a museum of contemporary art in Helsinki; it is notable that I bought [exactly the same pencil](?display=elgreco), only with the name of another museum, in Spain. The circle is complete.

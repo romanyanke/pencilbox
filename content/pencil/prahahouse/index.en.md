@@ -18,3 +18,7 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A pencil with the inscription <span style="font-family:fantasy;font-weight:bold;font-size:1.2em"><span style="color: #48276b;">P</span><span style="color: #7cbee8;">R</span><span style="color: #48276b;">A</span><span style="color: #d21818;">H</span><span style="color: #1b8c15;">A</span></span>, and a little unevenly glued house with a red roof on the end. On one side it again says Prague, and on the other three there are house numbers 8 and 13, and also a facade with a tree.
+
+It is all about the paint: the same [house from Thailand](?display=huahin-stone) turned out to be a distance marker!

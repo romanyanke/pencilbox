@@ -20,3 +20,5 @@ tags:
   - human
   - with a toy
 ---
+
+I accidentally found it in the Dubai Mall. The box had many other repeated pencils, and this one was the only one left. At the end of the pencil there is a girl in a niqab, and on the back it says "U.A.E." - it looks kind of strange with dots.

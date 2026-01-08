@@ -23,3 +23,5 @@ tags:
   - with a toy
   - color
 ---
+
+The ram-pencil! It writes in a pale orange chalk color (like the one from [Peru](?display=peru)), a pencil shaped like a ram with an expressive look. The ram is another [animal](?tag=animal) in my zoo.

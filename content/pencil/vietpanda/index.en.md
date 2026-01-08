@@ -19,3 +19,7 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+A pencil with a toy. At the end is a round wooden drum with a panda image. On the sides, two wooden balls are attached on strings. If you twist the pencil back and forth in your fingers, the balls hit the panda, making a rattle.
+
+This construction is topped with a propeller you can blow on, then it spins. The most multitasking pencil ever.

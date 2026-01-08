@@ -21,3 +21,7 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+These pencils were given to me in Spain, although they say made in China. I have two of them, but the ducks on them are different.
+
+Each has an eraser, but it is covered by the duck. One has unclear symbols, the other has animals.

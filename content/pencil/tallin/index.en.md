@@ -20,3 +20,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A city pencil from a souvenir shop in Tallinn.

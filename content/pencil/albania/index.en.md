@@ -20,3 +20,5 @@ tags:
   - unusual
   - sliced
 ---
+
+The Albanian pencil is similar to many others with a [slanted side](?tag=sliced).

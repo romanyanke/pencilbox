@@ -17,3 +17,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil with the names of landmarks of Madrid and its region. Bought in a souvenir shop in Toledo.

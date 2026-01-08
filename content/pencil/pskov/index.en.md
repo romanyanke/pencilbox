@@ -24,3 +24,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A small pencil from Pskov.

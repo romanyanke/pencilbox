@@ -18,3 +18,5 @@ tags:
   - round
   - set
 ---
+
+Şehir hatlari means "city lines". I bought this pair of pencils with a cardboard bridge on the ferry where I crossed the Bosphorus.

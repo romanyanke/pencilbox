@@ -22,3 +22,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+"Dickes Ding aus München" translates as "Thick thing from Munich". And this pencil is almost as huge as the [Yaroslavl](?display=yaroslavl) one, but 4 cm longer, for a total length of 38 cm. And this is not the longest pencil, because there is also a [big pencil from China](?display=chinabig).

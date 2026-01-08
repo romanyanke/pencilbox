@@ -18,3 +18,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A black pencil covered with red and white toponyms of Malta: regions, islands, and of course MALTA itself.

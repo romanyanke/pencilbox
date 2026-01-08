@@ -21,3 +21,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Lennusadam is a seaplane harbor in Tallinn on the shore of Tallinn Bay. Now there is a great naval museum there. The little ship is the symbol or logo of this museum. Time to start a category of pencils [in envelopes](?tag=envelope).

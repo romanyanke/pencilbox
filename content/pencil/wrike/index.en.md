@@ -18,3 +18,7 @@ tags:
   - with rubber
   - sharpened
 ---
+
+One of many [corporate](?tag=corporate) pencils. This one I took at a conference in Saint Petersburg.
+
+Looks like it was made in the same place as [Odin](?display=odin).

@@ -17,3 +17,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+The pencil looks a bit worn, but it is sold as new at the souvenir stand of Academpark (a building in the Technopark of Novosibirsk Akademgorodok). It costs 15 rubles.

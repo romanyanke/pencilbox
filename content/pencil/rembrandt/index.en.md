@@ -20,3 +20,5 @@ tags:
   - round
   - museum
 ---
+
+A pencil from the Rijksmuseum. On the pencil is Rembrandt's painting "The Night Watch" (or "The Militia Company of Captain Frans Banning Cocq and Lieutenant Willem van Ruytenburch", as Wikipedia suggests). You can actually see the captain and lieutenant on the pencil. And the painting hangs in that very museum.

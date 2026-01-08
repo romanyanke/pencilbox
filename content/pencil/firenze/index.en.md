@@ -18,3 +18,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil with the inscription "I l<span style="color:red">&#x2764;</span>ve Firenze" and symbols of Italy. On the pencil you can find: a cow, wine, shoes, coffee, sun, watermelon, a car, an orange, and other things, apparently Italian.

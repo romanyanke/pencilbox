@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A simple pencil that immediately makes it clear which country it is from.

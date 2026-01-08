@@ -20,3 +20,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Two identical pencils with München written on them, showing a group of multicolored squares, apparently with landmarks. A large barcode near the lead and red erasers on the end.

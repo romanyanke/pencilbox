@@ -22,3 +22,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+The same small and free pencil as in [IKEA](?display=ikea).

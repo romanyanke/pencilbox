@@ -20,3 +20,5 @@ tags:
   - animal
   - with a toy
 ---
+
+A yellow pencil with a knitted duck on the end. A duck in a scarf and a blue hat. [Turkey](?country=TUR) keeps surprising with unusual pencils!

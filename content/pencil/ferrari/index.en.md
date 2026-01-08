@@ -16,3 +16,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A low-contrast pencil: on the red background a pink inscription spreads a pattern of the words Ferrari World and Abudhabi, styled like Arabic script. Basically, this pencil was brought from Ferrari World.

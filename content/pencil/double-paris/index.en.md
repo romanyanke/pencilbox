@@ -19,3 +19,5 @@ tags:
   - round
   - country
 ---
+
+A pair of pencils from Paris. One says Chat noir and has a black cat, the other says Paris and shows landmarks.

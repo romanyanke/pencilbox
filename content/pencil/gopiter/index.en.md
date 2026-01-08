@@ -19,3 +19,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+I accidentally walked into a bookstore in St. Petersburg and saw this pencil. Just right for my collection. Only 65 rubles.

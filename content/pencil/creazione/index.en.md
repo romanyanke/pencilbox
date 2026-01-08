@@ -16,3 +16,7 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil bought at the post office in the Vatican. Around it is Michelangelo's painting "The Creation of Adam", signed in Italian: Michelangelo, La Creazione di Adamo.
+
+The pencil was brought in an envelope on which almost the entire map of the Vatican fit.

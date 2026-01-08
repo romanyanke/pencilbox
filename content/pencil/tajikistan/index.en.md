@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+This is an ordinary green plastic pencil, but it is made special by the doll that decorates it. She is dressed in traditional Tajik clothes, her robe and skullcap are sewn from fabric, her hair is made of threads and braided.

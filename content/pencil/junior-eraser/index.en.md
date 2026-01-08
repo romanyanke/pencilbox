@@ -21,3 +21,5 @@ tags:
   - used
   - sharpened
 ---
+
+I already have a whole category of [hotel pencils](?tag=hotel): when you come on vacation but are not sure you will be able to buy a nice pencil, and there is a simple free one in the hotel, you take it.

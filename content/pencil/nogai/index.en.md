@@ -19,3 +19,5 @@ tags:
   - round
   - hotel
 ---
+
+Nogai is the name of the hotel in Kazan where I stayed. And the hotel is named after the Golden Horde beglerbeg, the ruler of the westernmost ulus of the Golden Horde - his name was Nogai.

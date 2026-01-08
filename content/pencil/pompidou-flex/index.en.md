@@ -17,3 +17,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+I already have a [flexible pencil](?display=chinaflex), but this one is much longer! A whole 50 cm, which makes it the longest in my collection.

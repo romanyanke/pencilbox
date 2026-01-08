@@ -18,3 +18,7 @@ tags:
   - unsharpened
   - round
 ---
+
+I bought this pencil at the night market in Hua Hin for 10 baht [together with a second one](?display=huahin-sign), which also says หัวหิน. It means "Hua Hin" - the city name. And since this pencil has something like a distance marker, below it says "กม 99", which means "99 km".
+
+It is all about the paint; the same [stone from Prague](?display=prahahouse) turned out to be a house!

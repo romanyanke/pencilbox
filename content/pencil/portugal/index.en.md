@@ -20,3 +20,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A beautiful pencil with PORTUGAL written in huge letters. Everything is designed in the colors of the country, there is a coat of arms, and a flag of the state made of rubber (not an eraser) is attached to the eraser.

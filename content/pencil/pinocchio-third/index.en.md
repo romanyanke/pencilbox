@@ -20,3 +20,9 @@ tags:
   - human
   - hexagon
 ---
+
+- [Pinocchio I](?display=roma)
+- [Pinocchio II](?display=pinocchio-second)
+- **Pinocchio III**
+
+Now we know which pencil is the most popular in [Italy](?country=ITA)! This is already the third twin brother, here are the others.

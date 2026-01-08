@@ -22,3 +22,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+I found this pencil in a shop in Bruges, even though the monument on the eraser is located in another city. The sides of the pencil list the names of cities in Belgium.

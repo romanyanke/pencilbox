@@ -18,3 +18,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+An absolutely black pencil with a crown-shaped tip. Since it is from London, we will assume it is the English queen's crown.

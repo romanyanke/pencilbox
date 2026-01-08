@@ -19,3 +19,5 @@ tags:
   - oval
   - unusual
 ---
+
+I got it because of its unusual shape, it is almost rectangular. But since before it all my pencils were [round](?tag=round), [square](?tag=square), [hexagonal](?tag=hexagon), [triangular](?tag=triangle), and [oval](?tag=oval), I decided to classify it as the latter, because there is only one pencil there so far.

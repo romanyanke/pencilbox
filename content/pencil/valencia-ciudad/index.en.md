@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+The City of Arts and Sciences (this is written on the pencil in Valencian) is an architectural complex of five structures on a drained riverbed. The buildings are depicted on the pencil.

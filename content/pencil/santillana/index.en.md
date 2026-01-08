@@ -19,3 +19,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+Santillana del Mar is a municipality in [Spain](?country=ESP), with an area of 28.46 km². Population 4040 people. A pencil with a smiling cow was brought to me from there.

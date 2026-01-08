@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Made from a tree branch, with a [shaved side](?tag=sliced), on which "Krasnoyarsk" is nicely written. Looks like the [Ossetian](?display=osetia) one.

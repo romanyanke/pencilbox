@@ -17,3 +17,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+Ischia is a volcanic island off the coast of Italy. There is a village there; this pencil is from it.

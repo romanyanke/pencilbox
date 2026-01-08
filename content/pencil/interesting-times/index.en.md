@@ -16,3 +16,5 @@ tags:
   - round
   - unsharpened
 ---
+
+A pencil from the 2019 Venice Biennale. May you live in interesting times is their slogan.

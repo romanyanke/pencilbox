@@ -23,3 +23,5 @@ tags:
   - used
   - sharpened
 ---
+
+Marina Bay Sands is a hotel and casino on the shore of Marina Bay in the Central Region of Singapore. A small one like from [IKEA](?display=ikea).

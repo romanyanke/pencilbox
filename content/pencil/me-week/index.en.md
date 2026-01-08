@@ -22,3 +22,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A week-long set! It ends with the eighth pencil called "me-day".

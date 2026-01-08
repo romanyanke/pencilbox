@@ -18,3 +18,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+An Irish pencil with farm motifs and animals that look straight into your soul.

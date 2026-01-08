@@ -18,3 +18,5 @@ tags:
   - hexagon
   - unusual
 ---
+
+Erasers in the shape of a pencil are not that rare anymore. I already have [one from Portugal](?display=lisboa-eraser), now there will be one from Serbia. Only this one is tiny, about 4 cm long.

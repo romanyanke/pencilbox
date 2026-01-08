@@ -21,3 +21,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+There were a huge number of pencils in this museum, of different shapes and with many painting prints. I had to choose one, I chose an unusual shape. This pencil is a little larger than usual and has a pleasant oval shape. It is the first oval pencil in my collection.

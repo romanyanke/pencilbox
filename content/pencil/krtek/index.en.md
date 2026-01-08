@@ -19,3 +19,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Not even a pencil, but a pencil topper: while I was bringing the mole from Prague, it fell off the pencil and I had to glue it back. Krtek is Czech.

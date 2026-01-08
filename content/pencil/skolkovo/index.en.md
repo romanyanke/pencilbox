@@ -16,3 +16,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+I brought this pencil from Skolkovo, from the FrontendConf conference as part of Ritfest. I bought it in the souvenir shop for 90 rubles. The pencil has a pattern like the building of the Moscow School of Management Skolkovo, where the conference took place. Another pencil from there is [Avito](?display=avito).

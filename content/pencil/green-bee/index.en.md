@@ -19,3 +19,5 @@ tags:
   - animal
   - with a toy
 ---
+
+There was already a [panda with a propeller](?display=vietpanda), now a bee. Blow and it spins. Half the pencil is painted pink.

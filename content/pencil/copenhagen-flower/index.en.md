@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A wooden pencil with a beautiful red polygonal thing on the side, resembling a flower.

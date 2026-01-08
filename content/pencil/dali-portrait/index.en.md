@@ -18,3 +18,5 @@ tags:
   - round
   - human
 ---
+
+A pencil with a portrait of Dali. I bought it in Saint Petersburg at the Faberge Museum, there was a Dali exhibition.

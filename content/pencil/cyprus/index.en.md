@@ -20,3 +20,9 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+Three pencils from Cyprus at once:
+
+- The pencil is covered with neat "Cyprus" inscriptions in different fonts
+- A map pencil: blue sea, with palms and islands in it
+- A funny pencil with the word "Donkey" in different languages

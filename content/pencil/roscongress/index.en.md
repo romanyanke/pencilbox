@@ -18,3 +18,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Once I came to HolyJS, of course I grabbed a bunch of pencils at this conference, but when I was leaving the hotel where it was held, I saw that another unknown event was happening in parallel - this very Roscongress. The name is so boring that I did not even google what it is.

@@ -16,3 +16,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+I do not have many pencils from abbeys, in fact just one. Beautiful, bright, and neat, as a pencil from an abbey should be. Lovely word: abbey. It even has a website on it: [www.villers.be](http://www.villers.be).

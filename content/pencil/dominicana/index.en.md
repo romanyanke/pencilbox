@@ -19,3 +19,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil in red-blue-white stripes (they also have a tricolor), with the coat of arms of the Dominican Republic. The coat of arms says Dios. Patria. Libertad

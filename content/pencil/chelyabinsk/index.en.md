@@ -21,3 +21,5 @@ tags:
   - sliced
   - color
 ---
+
+Of all pencils with a [slanted side](?tag=sliced), this Chelyabinsk pencil looks most like the [Krasnoyarsk](?display=krasnoyarsk) one.

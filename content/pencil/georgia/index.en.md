@@ -19,3 +19,5 @@ tags:
   - country
   - national
 ---
+
+A pencil from Batumi with landmarks from all over Georgia.

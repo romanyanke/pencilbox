@@ -16,3 +16,7 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+Apparently from China, since it says "xingzuo" there. Although it also says "color pencil", so I do not know...
+
+A wooden character is put on the eraser, in clothes sewn from fabric, sitting on a barrel or some kind of cylinder.

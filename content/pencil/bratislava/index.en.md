@@ -19,3 +19,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+I have not been to Bratislava, but it seems this pencil is decorated at the end with one of the city's landmarks. A bit of googling tells us it is the [Michael's Gate](https://ru.wikipedia.org/wiki/Михайловские_ворота), the only gate preserved from the Middle Ages in Bratislava.

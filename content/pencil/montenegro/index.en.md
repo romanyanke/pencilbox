@@ -19,3 +19,5 @@ tags:
 
   - unsharpened
 ---
+
+The pencil is decorated with cities, landscapes, and architectural monuments of Montenegro: Sveti Stefan, Herceg Novi, Ostrog - I love when words resemble Russian.

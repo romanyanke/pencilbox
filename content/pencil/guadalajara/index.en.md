@@ -21,3 +21,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+A pencil from the local history museum of Guadalajara. Its round blue eraser is in the package. The eraser shows a rider with a spear on a horse.

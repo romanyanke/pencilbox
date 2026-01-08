@@ -18,3 +18,5 @@ tags:
   - used
   - sharpened
 ---
+
+I stole it from the Tri Trang hotel in Phuket, near Patong. The pencil was tucked into a folder for signing postcards or something like that, but I immediately knew I would bring this unremarkable pencil home. I already have plenty of different beautiful pencils from Thailand.

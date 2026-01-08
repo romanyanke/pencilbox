@@ -18,3 +18,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+Nothing is produced in Nepal, so the pencil is made in India. But it was brought from Nepal, so it will be Nepali. Although the fate of the [other Indo-Nepali pencil](?display=natarajblack) is quite different.

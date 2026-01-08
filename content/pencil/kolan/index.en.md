@@ -20,3 +20,7 @@ tags:
   - used
   - sharpened
 ---
+
+The green character on the pencil looks like a leprechaun, but what leprechaun in Thailand? This character sits on the eraser, so it wobbles a lot; its arms and legs are tied with strings, so they dangle too.
+
+Under the character it says เกาะล้าน, which means "Ko Lan" (thanks to Google Translate). It is written as if by hand, like with correction fluid.

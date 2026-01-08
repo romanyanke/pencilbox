@@ -21,3 +21,7 @@ tags:
 
   - sharpened
 ---
+
+A set in a package of two rectangular pencils. Double-sided: one side is always a regular pencil, the other is either red or blue.
+
+You can draw the Czech tricolor. Or French. Or Russian. Or Dutch. Or [Dominican](?display=dominicana). There are lots of them.

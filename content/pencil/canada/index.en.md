@@ -19,3 +19,5 @@ tags:
   - used
   - sharpened
 ---
+
+An old worn pencil brought from Canada. You can still see the outline of a maple leaf.

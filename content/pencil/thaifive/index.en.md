@@ -22,3 +22,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A set of five pencils of unusual shape, made from branches. Each is decorated with a string of its own color and a flower. Each says Thailand.

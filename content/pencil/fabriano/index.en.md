@@ -17,3 +17,5 @@ tags:
   - round
   - unusual
 ---
+
+A beautiful red pencil that splits into two parts. Probably the handle can be used to extend stubs of sharpened pencils.

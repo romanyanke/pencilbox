@@ -20,3 +20,7 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+Finland, Helsinki, Natural History Museum. This cute animal came from there. A deer eraser, the pencil is decorated with leaf-flowers, natural history in everything.
+
+In the package, which still has the price tag: 3-50 euros, at the current rate it is about 300 rubles. And a similar [squirrel](?display=squirrel) costs two euros less, though in Lithuania.

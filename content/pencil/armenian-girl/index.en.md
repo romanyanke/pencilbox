@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A girl with a braid and her arms at her sides in traditional costume is drawn on the pencil.

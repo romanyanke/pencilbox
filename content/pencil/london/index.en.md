@@ -21,3 +21,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+4 pack pencils. A set of 4 pencils in a package. All about London: I love London, flags, buses, flags again, Westminster Palace, Tower Bridge, cabs.

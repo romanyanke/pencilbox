@@ -19,3 +19,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A pencil from Santiago Bernabeu stadium, in a package. The huge eraser has the football club emblem. On the pencil itself it says Real Madrid 1902 - the year the club was founded.

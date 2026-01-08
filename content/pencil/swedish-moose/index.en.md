@@ -21,3 +21,9 @@ tags:
   - animal
   - with a toy
 ---
+
+Now my [Finnish moose](?display=finnishmoose) will not be bored alone.
+
+At a glance the moose looks like an Asian in a hat with moose antlers. But if you look closer, you will see that it is not a face, but the moose's nose; the black eyes are a little higher and blend into the dark background. On the antlers is the flag of Sweden.
+
+Price 39 KR, that is 260 rubles today.

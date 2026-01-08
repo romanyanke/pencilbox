@@ -20,3 +20,5 @@ tags:
   - unusual
   - sliced
 ---
+
+This pencil hardly fits the category "[Slanted side](?tag=sliced)", but it looks like a piece was cut off. I do not know why it has such a shape.

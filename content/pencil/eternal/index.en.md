@@ -19,3 +19,5 @@ tags:
   - round
   - unusual
 ---
+
+This is an "eternal" pencil made of metal alloy. Heavy, 138 mm long, 8 mm in diameter. At first I wrote to the guys who sell it on their site to gift it to me for my wonderful collection, but they did not answer, so I ordered it myself on Ozon for 2300 RUB. After the [Apple Pencil](?display=apple-pencil-1), this pencil ranks second among the most expensive in my collection.

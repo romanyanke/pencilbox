@@ -18,3 +18,7 @@ tags:
   - with rubber
   - sharpened
 ---
+
+I took it at one of the Codefest booths; I do not know what these guys do, but I could not pass by the pencil.
+
+Black, like [wrike](?display=wrike).

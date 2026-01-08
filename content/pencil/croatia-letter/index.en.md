@@ -21,3 +21,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+The small village of Hum played some role in the development of the Glagolitic script, so a keychain with a letter from that alphabet is attached to the end of the pencil.

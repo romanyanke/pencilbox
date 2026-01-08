@@ -21,3 +21,5 @@ tags:
   - unusual
   - color
 ---
+
+A small and thick wooden pencil. On the side is a print of the bell tower from the Trinity Lavra of Sergiyev Posad. Somewhere I read that this is the tallest bell tower in Russia, it is 88 meters.

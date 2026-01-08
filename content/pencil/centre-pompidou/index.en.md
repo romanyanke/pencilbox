@@ -18,3 +18,7 @@ tags:
   - museum
   - unusual
 ---
+
+A pencil made of graphite; it is heavier than it looks and fragile: the tip of the sharpened graphite broke off on the way.
+
+I have another pencil entirely made of graphite from the Louvre, but the [Arab Louvre](?display=louvre-abu-dhabi).

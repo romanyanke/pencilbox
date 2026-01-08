@@ -18,3 +18,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Once in shop class we also cut sticks of this shape on a metalworking lathe. And this pencil is also hand-painted, in blue paint, with a little flower drawn.

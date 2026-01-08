@@ -19,3 +19,5 @@ tags:
   - used
   - sharpened
 ---
+
+A pencil with inscriptions of Paris landmarks. One of the few that I managed to use, from the very beginning of the collection, even the eraser is worn.

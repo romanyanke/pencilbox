@@ -19,3 +19,5 @@ tags:
   - round
   - country
 ---
+
+It is not hard to guess at first glance where this pencil is from. An Irish shamrock, but with 4 leaves on each, so there will be luck.

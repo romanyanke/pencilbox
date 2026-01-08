@@ -20,3 +20,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+Made on the same principle as the [pencil from Bratislava](?display=bratislava). Only here it is a deer or chamois, the symbol of the city. And there is also a sticker, but there is little you can read on it.

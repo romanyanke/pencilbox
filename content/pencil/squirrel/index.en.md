@@ -22,3 +22,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+A New Year's pencil with snowdrifts and snowflakes. At the end there is a squirrel eraser. And a large price tag with €1.50. It seems that soon it will be possible to make a forest theme with the [deer](?display=helsinki) from Helsinki.

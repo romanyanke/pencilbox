@@ -23,3 +23,9 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+- [Pinocchio I](?display=roma)
+- **Pinocchio II**
+- [Pinocchio III](?display=pinocchio-third)
+
+The middle twin brother.

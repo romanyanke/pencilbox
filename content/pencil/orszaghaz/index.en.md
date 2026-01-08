@@ -18,3 +18,5 @@ tags:
   - with rubber
   - unsharpened
 ---
+
+Orszaghaz is the building of the [Hungarian](?country=HUN) parliament. The pencil repeats 7 coats of arms, but I could not find where they might be from. And the eraser has the silhouette of that same parliament.

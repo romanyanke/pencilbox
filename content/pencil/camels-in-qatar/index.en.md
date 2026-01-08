@@ -21,3 +21,5 @@ tags:
   - animal
   - with a toy
 ---
+
+The camel is the ship of the desert! I already have one from neighboring [UAE](?country=ARE) – the [first camel](?display=dubaicamel). Now it will have a neighbor from Qatar. The pencil even says: <span style="background-color:#028cba;color:#fff;font-family:serif"><i>Camels</i> in <b>Qatar</b></span>. Dressed in national clothing, a mobile phone hangs on its neck.

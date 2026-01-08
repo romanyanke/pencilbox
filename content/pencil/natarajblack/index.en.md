@@ -18,3 +18,5 @@ tags:
   - without rubber
   - sharpened
 ---
+
+A simple pencil from India. When I was in India myself, I was so impressed that I forgot to buy a pencil, but later my friends brought one. The friends were in Nepal, but the country is poor and produces nothing, it imports half its goods from India. They brought me two pencils from Nepal, but made in India. So this one is Indian, and [the other is Nepali](?display=nataraj).

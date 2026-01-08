@@ -16,3 +16,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+An ordinary pencil, but brought from Crimea. You would never tell from it.

@@ -23,3 +23,5 @@ tags:
   - without rubber
   - unsharpened
 ---
+
+The Finnish moose can wave its little legs. And it has big antlers. Beautifully made of wood. It has a [friend from Sweden](?display=swedish-moose).

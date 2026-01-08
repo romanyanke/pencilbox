@@ -18,3 +18,5 @@ tags:
   - round
   - unusual
 ---
+
+A pencil of unknown origin came to me because of its strange shape.

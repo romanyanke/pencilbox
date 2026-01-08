@@ -19,3 +19,5 @@ tags:
   - with rubber
   - sharpened
 ---
+
+Two named pencils received as a gift from Fernando. Fernando is a Spaniard who loves to paint. Once at work he was given named pencils for his anniversary. When he learned I collect pencils, he gave me both. I wanted to take only one, but he insisted on the second as well.
