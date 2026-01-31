@@ -1,0 +1,13 @@
+{{- $pencilCount := partial "count-pencils.html" (where .Site.Pages "Section" "pencil") -}}
+{{- $countryCount := partial "count-countries.html" (where .Site.Pages "Section" "country") -}}
+{{- $pencilString := (printf "%v %v" $pencilCount (i18n "pencil" $pencilCount) ) -}}
+{{- $countryString := (printf "%v %v" $countryCount (i18n "country" $countryCount) ) -}}
+
+
+{{- $pencilDigits := apply (split (printf "%v" $pencilCount) "") "int" "." -}}
+{{- $countryDigits := apply (split (printf "%v" $countryCount) "") "int" "." -}}
+
+
+{{- $data := dict "pencils" $pencilDigits "countries" $countryDigits -}}
+
+{{- jsonify $data -}}
