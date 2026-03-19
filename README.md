@@ -11,14 +11,10 @@ Built with [Hugo](https://gohugo.io).
 - build `hugo`
 - start proxy proxy `http-server --cors -p 8080`
 
-
 # Add a pencil
 
 `hugo new pencil/<id>`
 
 # Add a country
-
-`hugo new country/<code>.md`
-
 
 Country codes: https://unstats.un.org/unsd/methodology/m49/
